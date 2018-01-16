@@ -1,0 +1,9 @@
+Leann's Restaurant & Carryout
+Rating: 4
+Text: Daily specials and homemade food are what you will find at Leann's. Bierocks, Pattymelts, burgers and more.
+Rating: 4
+Text: Really great Burgers and Fries! It's a small place but you have to check it out if you want a great burger.
+Rating: 5
+Text: This place is the best in town
+Rating: 4
+Text: Quick friendly service

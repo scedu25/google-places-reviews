@@ -1,0 +1,12 @@
+Morgantown Inn and Suites
+Rating: 4
+Text: A place to stay for any age, not crowded with people, and overall an average hotel. My family hasn't complained about anything so far.
+Rating: 5
+Text: Good
+Rating: 3
+Text: I didn't spend the night. Just visited coworkers. Friendly staff. Average accommodations. A bit above expected weekly rate.
+Rating: 1
+Text: They have bed bugs and denied it when I clearly saw them crawling around n the sheets didn't stay the whole night
+Rating: 3
+Text: Quiet and clean
+

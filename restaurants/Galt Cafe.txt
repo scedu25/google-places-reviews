@@ -1,0 +1,11 @@
+Galt Cafe
+Rating: 5
+Text: Homemade food for Great prices! You will always have wonderful service!
+Rating: 5
+Text: Great food great help good prices
+Rating: 5
+Text: Great place to eat home cooked meals 
+Rating: 5
+Text: Good home town food
+Rating: 2
+Text: Not much homemade

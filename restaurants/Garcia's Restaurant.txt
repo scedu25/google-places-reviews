@@ -1,0 +1,11 @@
+Garcia's Restaurant
+Rating: 3
+Text: All I had was the Menudo. It was delicious. Will definitely eat here again. Service was not good. Food was.
+Rating: 5
+Text: I eat here every chance I get! Great food and friendly service!
+Rating: 4
+Text: Great food but they really hold back on the salsa.  
+Rating: 1
+Text: I waited about 40 minutes only to receive cold tacos and a smothered burrito that wasn't even smothered. Never coming back here!!
+Rating: 1
+Text: Was not impressed with food or service. 

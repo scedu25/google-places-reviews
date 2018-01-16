@@ -1,0 +1,11 @@
+Tacos & More
+Rating: 5
+Text: This is a great restaurant. We love the subs and tacos. Wonderful.
+Rating: 2
+Text: Friendly service, clean atmosphere, but probably the blandest, most awful form of Mexican food I've ever had , sorry but won't do it again.
+Rating: 3
+Text: Great food just really expensive
+Rating: 5
+Text: Still as good as I remember ten years ago. Awesome staff.
+Rating: 5
+Text: Great food - grest people 

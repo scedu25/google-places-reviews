@@ -1,0 +1,11 @@
+Subway
+Rating: 1
+Text: $2 for a small fountain drink is too much
+Rating: 4
+Text: Quick service and tasty sandwiches!
+Rating: 5
+Text: Nice and friendly service they have here
+Rating: 1
+Text: Dirty and flys everywhere!!!! GROSS
+Rating: 5
+Text: Best subway in CB.  Friendly staff, well made sandwiches!!!

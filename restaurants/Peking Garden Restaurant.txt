@@ -1,0 +1,11 @@
+Peking Garden Restaurant
+Rating: 5
+Text: This is my favorite chinese food. Great service. The buffet is huge but there is a decent amount of food. For a good price. 
+Rating: 1
+Text: How did this place get good reviews? Must be locals that don't know better... selection is super small. Like insanely small. One rice, one noodle, two entrees. No selection at all! It's like set menu.... if you got have Chinese in Scott City, this is your only (overpriced) choice and I feel bad for you :(
+Rating: 4
+Text: Not big choice but still enough food to eat
+Rating: 1
+Text: When you need to add sugar or sweeter to the food you cook, it's not worth cooking.  I tried it, didn't like it. Not worth the calories. My vegetable stir fry tasted like bologna, and I don't eat meat. Was disgusted. Hot and sour soup? I don't think so!  Everything I tasted, take out, tasted like I was eating a sugary dessert. With bologna gravy. I would not recommend 
+Rating: 4
+Text: Good food

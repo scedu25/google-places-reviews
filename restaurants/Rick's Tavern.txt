@@ -1,0 +1,11 @@
+Rick's Tavern
+Rating: 4
+Text: Excellent bar. Good selection on menu. Great place to watch a game and hang out with friends.
+Rating: 4
+Text: Always a seat available. Food is medium good to good. Service is usually good. Musical entertainment is fun and usually quite good.
+Rating: 5
+Text: This place was amazing. Good food. Great live  bands will definitely go again!!
+Rating: 4
+Text: I had one bartender that was amazing (Nicole) and another girl that took care of me but one of the girls at the main bar I could not get service off of her all night. She was dancing and talking to other other patrons all night but giving zero service to any walk up customers.
+Rating: 4
+Text: Pretty good bar food. I loved the live bands!

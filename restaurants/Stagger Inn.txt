@@ -1,0 +1,12 @@
+Stagger Inn
+Rating: 5
+Text: A cozy place to eat. It tries very hard to be a dive bar, but their food is too good. They are even proud to serve Stag beer...from draft ?. You will enjoy this place but don't tell anyone.
+Rating: 5
+Text: If you like real pubs and honest people, this is the bar for you. A long time Edwardsville establishment that just keeps getting better.
+Rating: 5
+Text: Nice people, and good food for a decent price!
+Rating: 4
+Text: Bartenders are not real friendly, but the music is cool and beer is cold. 
+ It's a cozy place to just chill.
+Rating: 5
+Text: Pretty good food; for lunch or with some beers, it's great. Use to go all the time, but it's been a few years. Now I just go once in a while to meet up with old friends and it's the perfect little place for that. Live bands, good service, good food, fair prices. Can't complain at all.

@@ -1,0 +1,11 @@
+Allerton Mansion
+Rating: 5
+Text: Excellent place for team building exercises. And the best food catering too. 
+Rating: 5
+Text: nice place to have a visit
+Rating: 4
+Text: Beautiful space. Great charm.
+Rating: 5
+Text: Love going for long walks here with my family and dog.
+Rating: 4
+Text: Great staff

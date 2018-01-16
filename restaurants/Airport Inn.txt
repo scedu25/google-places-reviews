@@ -1,0 +1,9 @@
+Airport Inn
+Rating: 4
+Text: Review of restraurant: Good breakfast. Friendly and fast service. Window view of the tarmac.
+Rating: 5
+Text: Food is always good and Dixie and Christy are the best servers you could ask for
+Rating: 3
+Text: 
+Rating: 4
+Text: 

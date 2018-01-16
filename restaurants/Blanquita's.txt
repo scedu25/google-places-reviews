@@ -1,0 +1,11 @@
+Blanquita's
+Rating: 5
+Text: Excellent food and service!  I highly recommend it!
+Rating: 4
+Text: Ate here twice while travelling. It's more mexican than tex-mex and prices were reasonable. The server was also the cook, so during buys times you can expect a tiny bit of a wait but I didn't think anything extreme.
+Rating: 5
+Text: My GF and I ate there last night and it was great. The food was scrape your plate fantastic and the prices very reasonable.
+Rating: 3
+Text: The burrito supreme could have been spicy but other than that it was ok
+Rating: 5
+Text: Great food, service and price.

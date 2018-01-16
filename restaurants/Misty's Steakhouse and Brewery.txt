@@ -1,0 +1,11 @@
+Misty's Steakhouse and Brewery
+Rating: 4
+Text: The staff was great and the food was delicious but the prices are fairly unaffordable for the average Joe. This is a good place to go for special occasions.
+Rating: 5
+Text: We went there after graduation.  The food and service were great and the accommodations were nice.  Really enjoyable time.
+Rating: 3
+Text: Food was good but bar service was terrible. It was like they didn’t want to serve you and would have preferred that you leave. Bartenders perfected the act of ignoring customers.
+Rating: 4
+Text: Strong 4 stars.  The atmosphere is great.  The lobster bisque was good, not great.  The ribs were very tasty, just the right amount of sweet and spicy, they could have been a little more tender though.  The asparagus was delicious especially with the light seasoning that they put on it.  Service was good, but they were busy so it was a little slow.  All together, I'd definitely eat here again.
+Rating: 5
+Text: Great food. Always stop when we are in town for a Husker game.

@@ -1,0 +1,11 @@
+Vips
+Rating: 5
+Text: Great food for the price.
+Rating: 5
+Text: Newly remodeled.  Great Omlets.  Great prices
+Rating: 5
+Text: Great service great food a really nice restaurant  
+Rating: 5
+Text: The atmosphere is very friendly and the service is excellent i don't come often but when I do I meet someone new and they are so nice .
+Rating: 5
+Text: Amazing food and service

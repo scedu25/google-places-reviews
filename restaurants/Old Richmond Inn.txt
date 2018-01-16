@@ -1,0 +1,11 @@
+Old Richmond Inn
+Rating: 4
+Text: The hospitality feels forced but the menu is impressive and the food is good.  The atmosphere is nice if it's not crowded.
+Rating: 5
+Text: First rate food and ambiance. Maybe the best restaurant in Indiana. Prices affordable.
+Rating: 5
+Text: Great food and service worth the money !
+Rating: 5
+Text: Awesome food. Awesome atmosphere. Great experience.
+Rating: 5
+Text: A Richmond staple located in an interesting old building. My family has gone there for years, and the food is always great.

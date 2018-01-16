@@ -1,0 +1,11 @@
+5th Street Sandwich Shoppe
+Rating: 5
+Text: Delicious sandwiches.  So much better than a hamburger.
+Rating: 5
+Text: The brie and apple butter sandwich drizzled in powder sugar is likely the most amazing sandwich I've ever eaten...
+Rating: 5
+Text: Very unique and very good sandwiches. Half a sandwich and chips for $4! What a great deal. 
+Rating: 5
+Text: Creative menu, always a variety, very friendly service!
+Rating: 5
+Text: Locally owned, unique sandwiches, salads, pies with menu changing regularly.

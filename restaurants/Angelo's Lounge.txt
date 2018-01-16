@@ -1,0 +1,11 @@
+Angelo's Lounge
+Rating: 5
+Text: Love pasta crock
+Rating: 4
+Text: Best pizza around
+Rating: 5
+Text: Excellent!!!! 
+Rating: 5
+Text: Angelos is fantastic! ENOUGH SAID! EAT IT!
+Rating: 5
+Text: Great deals and very delicious!

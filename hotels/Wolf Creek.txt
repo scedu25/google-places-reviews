@@ -1,0 +1,11 @@
+Wolf Creek
+Rating: 5
+Text: Beautiful campground with great accommodations. 
+Rating: 5
+Text: Great place to kick back and relax!
+Rating: 5
+Text: I love camping here
+Rating: 4
+Text: nice and quiet
+Rating: 5
+Text: Beautiful camping night 

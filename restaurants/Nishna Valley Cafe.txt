@@ -1,0 +1,11 @@
+Nishna Valley Cafe
+Rating: 4
+Text: Good place reasonable food and price
+Rating: 5
+Text: Great people and good food
+Rating: 5
+Text: Great food and great service
+Rating: 5
+Text: Great food, cheap price
+Rating: 5
+Text: Very good food in reasonable prices

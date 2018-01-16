@@ -1,0 +1,11 @@
+Uptown Cafe
+Rating: 4
+Text: Reluctantly I give it four stars.   What this reviewer means is that in the scheme of restaurants the establishment is not a shining star.  But, the food is good.  The staff are wonderful.  It's good. So since I liked it, it gets four stars
+Rating: 3
+Text: We have been coming here for years.  The food is consistently good and the service attentive.  Nice bar selection of beer, wine, cocktails. Lately we've noticed price increases at breakfast and lunch.  $12.50 for an omelette with toast; $14.50 for a burger with a side.  Dinner might be a better value.
+Rating: 4
+Text: Great food but is a hit or miss with the staff unfortunately. Server definitely impacts your experience. Either way, come here for killer brunch and order the potato omelet!
+Rating: 5
+Text: Wonderful Cajun food. If you have a visitor from NYC, Chicago, or LA and want to impress them, this is the place to go! The food is not cheap, but it's well worth the price. This restaurant has excellent wheelchair accessibility -- thank you Uptown for supporting the disability community.
+Rating: 5
+Text: I had a breakfast and dinner. The house made potato omelette is super delicious. Service was good and food is unique at this place.

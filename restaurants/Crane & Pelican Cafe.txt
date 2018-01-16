@@ -1,0 +1,11 @@
+Crane & Pelican Cafe
+Rating: 5
+Text: Delightful... Old historical building serves as avionce to a delicious, romantic meal.  Peaceful.  Good service. Beautiful view of Mississippi River. Very pleased.  We will return. 
+Rating: 5
+Text: Great food, good service, a bit pricey
+Rating: 4
+Text: Quaint tea shop atmosphere, with luncheon. The home made chicken and dumplings soup is the chefs own, from 3 generations and Not to be missed.
+Rating: 4
+Text: Wonderful ambiance! Excellent food and choices. Highly recommend. Get there early or make reservations with a view of the river.
+Rating: 4
+Text: Had the soup and chicken burger great food great price

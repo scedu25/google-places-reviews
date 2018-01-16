@@ -1,0 +1,11 @@
+Copper Grill
+Rating: 4
+Text: Their hamburgers are great, a step back in time when they were handmade and perfect.
+Rating: 5
+Text: We just love this place. Food is always great, prices are great. Service is typically awesome. 
+Rating: 5
+Text: Better on the inside than you anticipate. Friendly faces. They actually know how to cook eggs the way you ask.
+Rating: 5
+Text: They have the best pulled pork. Very large portions, we've always had to get doggy bags. Staff is very friendly. They make you feel very welcome. I highly recommend this place.
+Rating: 4
+Text: Good sized portions and really friendly staff. Loved the club sandwich. 

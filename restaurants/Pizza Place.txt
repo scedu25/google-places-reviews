@@ -1,0 +1,9 @@
+Pizza Place
+Rating: 5
+Text: Friendly, lovely place for family & friends.
+Rating: 5
+Text: Good food, great people. A local favorite!!!
+Rating: 4
+Text: Good pizza.
+Rating: 5
+Text: 

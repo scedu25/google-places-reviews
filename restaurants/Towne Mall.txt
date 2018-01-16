@@ -1,0 +1,11 @@
+Towne Mall
+Rating: 5
+Text: Everything I need and want, at this time, is at this mall.  I don’t have to travel 30 miles to a mall.  The clothes are trendy and affordable. The employees are helpful and Security is visible. I’m comfortable shopping knowing there are trained security on hand.
+Rating: 4
+Text: It is a nice place to stop. It is kind of small, but you can get good deals, do not forget to bring your coupons .
+Rating: 3
+Text: I used to love coming to this mall, it always seemed like it was bustling with people and had an enjoyable environment. Nowadays its more of an in and out type place when before I could spend hours here.
+Rating: 4
+Text: Decent mall but does have a few empty vacant lots (stores). Does have a few unique specialty stores
+Rating: 3
+Text: It's just at the OK level, the biggest issue is the food court is terrible, not much there and the places there at very annoyed when you order food from them and the quality of the food is really poor. Sometimes the automated disabled doors do not work it's pretty much hit and miss.

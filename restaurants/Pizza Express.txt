@@ -1,0 +1,11 @@
+Pizza Express
+Rating: 5
+Text: Great food and service. Not just a pizza joint. Awesome fried chicken!
+Rating: 5
+Text: Enjoy eating there. Staff is friendly.  Special orders no problem.
+Rating: 4
+Text: Had the infamous taco pizza once again with the family, always a good choice.
+Rating: 5
+Text: They are wonderful  people you need to go there and try there food and say  hi  to Angie great waitress they have awesome  pasta  
+Rating: 3
+Text: The food was good and service was as well.

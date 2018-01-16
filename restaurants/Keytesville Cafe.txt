@@ -1,0 +1,9 @@
+Keytesville Cafe
+Rating: 5
+Text: A very good small town cafe.  Tons of food for the price. Good everytime I've eaten there.
+Rating: 4
+Text: You won't leave hungry.  Great food and reasonably priced.
+Rating: 5
+Text: Awesome as always. So fortunate to have this quality of a family restaurant close by.
+Rating: 4
+Text: Good cook. 

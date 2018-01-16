@@ -1,0 +1,11 @@
+Mary's Restaurant
+Rating: 5
+Text: A special place to eat. The best menu in Southern Illinois. And the service is top of the line.
+Rating: 5
+Text: Beautiful place with wonderful food and excellent service. What more can a person ask for? Both Trent and Nick are excellent servers. I've introduced several friends to Mary's and everyone loves it!
+Rating: 5
+Text: If you like premium food and service this is the place for you
+Rating: 5
+Text: Super food. Excellent service.
+Rating: 5
+Text: Just when I thought we would have to go to Saint Louis for an elegant leisurely dinner we found Mary's!

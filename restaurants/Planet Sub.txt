@@ -1,0 +1,11 @@
+Planet Sub
+Rating: 5
+Text: I love that they deliver on campus. Food is great, employees are always friendly.  It's a go-to for me when I've forgotten my lunch.
+Rating: 5
+Text: Surprised they delivered all the way out to my house, and incredibly glad that they do. Subs are always top notch, and the chips are 10/10
+Rating: 5
+Text: This place is awesome! Great food, good customer service, what more could you want?
+Rating: 5
+Text: Excellent service, great tasting freshly made sandwiches. I eat there at least once a week. Like all places, sometimes there's a problem,  but the owners go out of their way to make things  right.
+Rating: 5
+Text: Delicious, Great selection, Unique Atmosphere, Clean,  and superb service!

@@ -1,0 +1,9 @@
+Crows Nest Diner & Pizzeria
+Rating: 5
+Text: Amazing place to eat !
+Rating: 4
+Text: Good Pizzas, friendly staff.
+Rating: 5
+Text: Amazing people and great food?
+Rating: 5
+Text: 

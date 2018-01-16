@@ -1,0 +1,11 @@
+Lakepoint
+Rating: 4
+Text: This is a nice place for kids and family. A lot of fun.  Can do better on bathrooms and the kids parks.
+Rating: 3
+Text: Nice to get away. Could do better with restrooms and club house. Price is starting to get on high side for what is offered.
+Rating: 5
+Text: Home sweet home
+Rating: 5
+Text: Love this place
+Rating: 4
+Text: It's always a great time. Friendly people/neighbors. Alot of fun activities for kids and adults. Glad to be a member!

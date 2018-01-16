@@ -1,0 +1,11 @@
+Michael Smith Restaurant
+Rating: 3
+Text: The food was good and the service was great but I was charged more than the menu price for the bottle of wine I ordered.  I confirmed this with the restaurant but received no promised responses (4 attempts).  My suggestion you carefully check your charges.
+Rating: 5
+Text: The food was amazing!  Service was superb!
+Rating: 5
+Text: What an interesting place, great food. Chef came to greet us at the table.
+Rating: 4
+Text: The signature pork was really tender, paired with a nice red wine, it made for a great meal.
+Rating: 5
+Text: The flavors are amazing!  Such care is placed into the creation of every single dish that leaves the kitchen.   Sit, relax, and savor every bite. I recommend the foie gras!

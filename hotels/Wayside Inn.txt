@@ -1,0 +1,12 @@
+Wayside Inn
+Rating: 5
+Text: Great people. Good place to get help.
+Rating: 4
+Text: Very helpful to
+Those in need been there. Multiple times
+Rating: 4
+Text: Good people running the place!
+Rating: 3
+Text: Clean place, friendly staff, different services offered.
+Rating: 5
+Text: God moves through these people

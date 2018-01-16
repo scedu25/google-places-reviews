@@ -1,0 +1,11 @@
+Amberly Pointe
+Rating: 2
+Text: It needs a lot of work. The trailers are in need of repair, the roads need redone, and the lawns need lots of work.
+Rating: 3
+Text: just a typical big box store, its not on my every day list of places to go
+Rating: 4
+Text: It's a peaceful place to live 
+Rating: 1
+Text: I hate trailers
+Rating: 5
+Text: Old girl friend

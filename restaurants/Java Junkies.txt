@@ -1,0 +1,11 @@
+Java Junkies
+Rating: 5
+Text: Have never been disappointed with the service or the food. Excellent place to eat. 
+Rating: 5
+Text: Super friendly staff, excellent coffee, and superb food. The lunches here are always great!
+Rating: 5
+Text: Great coffee and relaxing atmosphere!
+Rating: 3
+Text: Food was good,but pricey. 
+Rating: 5
+Text: 

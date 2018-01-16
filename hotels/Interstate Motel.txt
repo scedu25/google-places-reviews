@@ -1,0 +1,12 @@
+Interstate Motel
+Rating: 1
+Text: Its ok for a single level motel.
+The rooms are clean and remodeled recently flat screen TV. The owners are nice
+Rating: 4
+Text: Newly remodeled and very nice people who run the establishment.
+Rating: 3
+Text: Very affordably-priced good place
+Rating: 2
+Text: It says no smoking but there's cigarette burns every where
+Rating: 3
+Text: Good rooms for the money sent.

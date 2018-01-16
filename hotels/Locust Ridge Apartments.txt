@@ -1,0 +1,10 @@
+Locust Ridge Apartments
+Rating: 5
+Text: I am a resident here and can honestly say the manger has turned this place around for the better. I love living here now.
+Rating: 4
+Text: Very nice but trashy residents warning do not leave your car unattended
+Rating: 3
+Text: Getting old many years or wear
+
+Rating: 3
+Text: 

@@ -1,0 +1,11 @@
+Monty's Submarines
+Rating: 5
+Text: Great and fast service!!! Very good sandwich
+Rating: 5
+Text: I've been eating here since they opened the doors. One of the best in town!
+Rating: 5
+Text: Only place to go for a good sandwich.
+Rating: 3
+Text: The gentleman at the counter was kinda weird but other than that the sandwiches were pretty good A bit of a wait for the sandwiches and they have gotten smaller since I first started going here. Price increase sandwich decrease not too happy about it
+Rating: 5
+Text: Very good food!

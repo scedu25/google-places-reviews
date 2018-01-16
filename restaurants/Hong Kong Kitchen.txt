@@ -1,0 +1,11 @@
+Hong Kong Kitchen
+Rating: 5
+Text: Excellent food and great service. We have eaten here 5 separate times and the food has been fantastic every time. Highly recommend the food here; take out or dine in. 
+Rating: 5
+Text: Food is great and made to order fast. Excellent service. Best restaurant in town.
+Rating: 5
+Text: They always have the best food. I have never been disappointed like I have other places. We eat there a couple times a month. Great food and friendly people. Love it
+Rating: 5
+Text: If you want to have a plethora of choices in Chinese food this is the place to be. Any dish you try, you will love every bit of it. Its like a blast of flavors to your senses. And yes if you can handle try the Spicy Mustard sauce, I dare you! :P
+Rating: 5
+Text: We've been eating here since 2002 when we moved to the area. Its always been the best around

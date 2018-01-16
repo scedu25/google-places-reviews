@@ -1,0 +1,11 @@
+Family Table Restaurant
+Rating: 4
+Text: Very good food.  We were just passing through from a trip out west and stumbled across this place.  We recommend it.
+Rating: 3
+Text: Waitress was great! They wouldn't substitute Turkey for an omlet. Opted for a hot beef instead. Not bad. No WiFi
+Rating: 5
+Text: Very nice restaurant, great atmosphere. Good, friendly service and good food.
+Rating: 4
+Text: The Family Table is a great American diner. The servers are friendly and incredibly attentive! I had steak and eggs. The steak was not a great cut of meat, but was cooked and seasoned well. The hash browns were the best I've ever had! The cook mistakenly fried rather then scrambling my eggs, but overall, this is a great place serving up wholesome American fare!
+Rating: 5
+Text: Good food..... Good service. Pretty consistent place to eat.

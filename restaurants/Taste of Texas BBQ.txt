@@ -1,0 +1,11 @@
+Taste of Texas BBQ
+Rating: 5
+Text: Good smoked meat. Good homemade BBQ sauce. Great burgers. Big helpings. Nice atmosphere!
+Rating: 5
+Text: Fantastic food. Wait staff was nice. Very reasonably priced for the quality and quantity of food.
+Rating: 5
+Text: Has never been bad. Always reliable
+Rating: 4
+Text: Nice people. Good food. Family environment. Excellent prime rib! I recommend it
+Rating: 2
+Text: The food isn't bad but it's priced like a 5 star restaraunt. 

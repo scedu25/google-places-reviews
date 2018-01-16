@@ -1,0 +1,5 @@
+Premier Inn
+Rating: 5
+Text: Very nice clean rooms
+Rating: 4
+Text: Homey

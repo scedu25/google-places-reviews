@@ -1,0 +1,11 @@
+Modern Manor Inc
+Rating: 5
+Text: Friendly neighborhood and they even have security. Very quiet place. 
+Rating: 2
+Text: Management sucks and it is overpriced for what is provided.
+Rating: 3
+Text: Google maps doesn't have the correct lot numbers in the maps
+Rating: 5
+Text: Well kept and kid friendly.
+Rating: 4
+Text: Clean decent trailer court. Has security and keeps everything looking fairly nice.

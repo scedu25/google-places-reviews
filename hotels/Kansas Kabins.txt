@@ -1,0 +1,7 @@
+Kansas Kabins
+Rating: 5
+Text: Awesome 
+Rating: 2
+Text: 
+Rating: 5
+Text: 

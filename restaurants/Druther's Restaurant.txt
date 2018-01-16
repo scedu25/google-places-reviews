@@ -1,0 +1,11 @@
+Druther's Restaurant
+Rating: 5
+Text: Great food and service! The staff here are incredibly friendly! They treat you like family!
+Rating: 5
+Text: Foods always great, anything from a morning meal to a early dinner, Druthers always does the job
+Rating: 5
+Text: Great food awesome prices! I always enjoy our Druthers restaurant.
+Rating: 5
+Text: Druthers has great burgers, especially the Royal Burger!!! If you are looking for a great breakfast, Druthers is the place to go!!!
+Rating: 5
+Text: Great place to eat... Employees are nice... Drive thru is super slow every now and then.

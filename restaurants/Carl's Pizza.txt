@@ -1,0 +1,11 @@
+Carl's Pizza
+Rating: 5
+Text: Staff was very friendly. The food was delicious and more than I could finish
+Rating: 5
+Text: Very nice little restaurant pizzas are huge but very tasty and decently priced 
+Rating: 5
+Text: We ordered 2 pizzas and the nachos deluxe and 6 cookies and the italian beef sandwich and 2 2 liters of soda and the service was fast and the food was amazing
+Rating: 5
+Text: Carl's pizza is an excellent family owned restaurant that makes you feel at home when you eat there
+Rating: 4
+Text: Best pizza in the county!  Local owner is doing it right!

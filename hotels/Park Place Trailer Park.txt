@@ -1,0 +1,7 @@
+Park Place Trailer Park
+Rating: 3
+Text: Lots of room with you to park a trailer
+Rating: 5
+Text: My sister is there
+Rating: 4
+Text: 

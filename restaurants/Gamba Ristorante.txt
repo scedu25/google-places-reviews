@@ -1,0 +1,11 @@
+Gamba Ristorante
+Rating: 5
+Text: I loved it! Everything was delicious! The service was great! Never heard of it before the party,  but I would definitely recommend it!
+Rating: 3
+Text: Had the filet mignon, very tasty.  Not very impressed with the attitude of the servers or knowledge of bartender.  A solid 3 on my scale for overall opinion of the restaurant.
+Rating: 5
+Text: Superb Northern Italian Cuisine. Attentive wait staff. Elegant surroundings for both dining and parties.
+Rating: 5
+Text: Best place in NWI by far. You feel like you are part of the family in Italy.
+Rating: 5
+Text: Great restaurant, with excellent food and great service!

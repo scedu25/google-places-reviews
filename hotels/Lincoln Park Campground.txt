@@ -1,0 +1,12 @@
+Lincoln Park Campground
+Rating: 5
+Text: Nice park. Some campsites, disc golf course
+Rating: 2
+Text: Not a lot of things there
+Rating: 5
+Text: Beautiful park! Camping,disc golf, pond, play areas, and more. 
+Rating: 4
+Text: The water and frolf course
+
+Rating: 5
+Text: 

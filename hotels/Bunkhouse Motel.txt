@@ -1,0 +1,7 @@
+Bunkhouse Motel
+Rating: 4
+Text: Friendly ,down home people. Rooms clean.
+Rating: 5
+Text: 
+Rating: 3
+Text: 

@@ -1,0 +1,7 @@
+Ranch Motel
+Rating: 3
+Text: Really easy to access. Love the food
+Rating: 3
+Text: Acceptable atmosphere
+Rating: 3
+Text: Woohoo

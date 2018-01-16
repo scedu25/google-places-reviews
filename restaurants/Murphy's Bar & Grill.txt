@@ -1,0 +1,11 @@
+Murphy's Bar & Grill
+Rating: 5
+Text: Great food and beer choices. Perfect... two blocks from my hotel. Nice ambiance and great service too.
+Rating: 4
+Text: The lasagna is great. Pattie melt is good also. Service is great. Not typical bar food.
+Rating: 4
+Text: Great bar food! The best in Riverside... the only in Riverside. Well other than the Casino.
+Rating: 5
+Text: Great food and service!
+Rating: 4
+Text: The  spaghetti was very very very good and hot and mash potatoes are awesome. But wait 20-30 minutes to get our food because it's only just got a little grill

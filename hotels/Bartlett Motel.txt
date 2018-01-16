@@ -1,0 +1,11 @@
+Bartlett Motel
+Rating: 5
+Text: This place is great! Nice people to work with, comfy beds, great pillows and very spacious!
+Rating: 1
+Text: No longer running as a motel
+Rating: 5
+Text: If you believe in supporting a family business in rural America, this is a great place to stay.  They have made a large investment in their community and they didn't cut any corners.  Full tub, ceramic tile, great beds, and pillows to die for.  I would highly recommend this motel.  
+Rating: 5
+Text: Good motel
+Rating: 4
+Text: The room was clean and the beds were comfortable. I slept like a baby.

@@ -1,0 +1,11 @@
+Willows Restaurant & Bar
+Rating: 4
+Text: Food was great! Service fast and friendly. Recommended to anyone
+Rating: 4
+Text: Great place for dinner in Seneca. Good variety of food, and we'll cooked meals. Descent bar selection. Go to spot when I pass through.
+Rating: 1
+Text: This is the worst restaurant around. Their food and drinks are overpriced and the service is lousy. It took over an hour to get our food from the time we ordered it. It took them 30 minutes to get my drink my bar drink. And they wasn't even busy. Worst of all they didn't even bring back my change. They assumed it was their tip. They don't even cater to the vegetarians. I won't be back!
+Rating: 4
+Text: Always nice food and pleasant staff
+Rating: 5
+Text: Delicious food, pleasant atmosphere and the employees are friendly!

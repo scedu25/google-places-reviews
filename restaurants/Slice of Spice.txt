@@ -1,0 +1,11 @@
+Slice of Spice
+Rating: 5
+Text: The very best food and service.  It always a total pleasure eating at Slice of Spice.   If you haven't had their wood fired pizza you must try it.
+Rating: 5
+Text: Love the food and atmosphere! Dan and Mary are always cordial and they have a great staff.
+Rating: 4
+Text: Food is very good, atmosphere is welcoming and usually quiet. Staff is very polite.
+Rating: 5
+Text: Stephanie is second to none. She was a fantastic server. Have you ever been to a place where the food is like nothing else you've ever tasted, that's what this place is like.  You will not be disappointed. thank you Stephanie for your hard work and fantastic pizza. Keep up the good work
+Rating: 3
+Text: I LOVE their pizza - it's a nice place to eat....but, it's NOT handicap accessible.  sidewalk space is taken up with chairs/tables that block wheelchairs/walkers from getting to the door.  :-(

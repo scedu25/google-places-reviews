@@ -1,0 +1,11 @@
+HI Malabar Farm Hostel
+Rating: 5
+Text: This place is fantastic, if you have never been here I suggest you put it on your bucket list. You will not regret it.
+Rating: 4
+Text: Stayed here back in 2007 during a solo bike tour. Very nice people and beautiful scenery. There were pancakes in the morning and some good conversation. 
+Rating: 5
+Text: Clean, friendly, and relaxing in a beautiful location with lots of history.
+Rating: 4
+Text: Only to in passing, as it was closed at the time
+Rating: 5
+Text: Clean, friendly, and relaxing

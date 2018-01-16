@@ -1,0 +1,11 @@
+Tequilas Mexican Restaurant
+Rating: 4
+Text: Great food at a good price.  Service was excellent also.
+Rating: 4
+Text: Great Mexican not authentic but if u like American style Mexican food it's the place to go
+Rating: 1
+Text: Very disappointed today.  Order came out wrong, corrected it but with NO apology, then at check out tried to charge us for wrong order, which cost more.  Again no apology, or thank you.   We usually enjoy going there.
+Rating: 5
+Text: Food is always good.  Servers are kind and accommodating.  Prices are reasonable. 
+Rating: 5
+Text: Amazing food and atmosphere. The service is remarkable!

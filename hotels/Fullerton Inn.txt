@@ -1,0 +1,11 @@
+Fullerton Inn
+Rating: 4
+Text: Good rooms. Great staff. Located on the highway. Close to the river.
+Rating: 5
+Text: Best nights sleep in years amazingly comfortable bed and pillows
+Rating: 5
+Text: Rooms are very clean and excellent staff!
+Rating: 4
+Text: Breakfast starts late but hotel has nice showers, TV, and beds
+Rating: 4
+Text: Very nice little inn with clean rooms and friendly staff.  

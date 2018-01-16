@@ -1,0 +1,11 @@
+Morris Inn Steakhouse
+Rating: 5
+Text: Delicious food. Home made onion rings ,  salad dressings,  tenderloins.  Most steaks cut in house.   Love the prime rib. Friendly atmosphere.
+Rating: 5
+Text: Great food in a small town atmosphere.  Variety for every taste and healthy food options available.  High quality food and reasonable prices.
+Rating: 4
+Text: This is a friendly family place. Very good food. Very relaxing.
+Rating: 5
+Text: We were seated and then was ready it seemed in seconds.
+Rating: 5
+Text: Great food small prices

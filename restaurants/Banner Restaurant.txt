@@ -1,0 +1,11 @@
+Banner Restaurant
+Rating: 5
+Text: Under new management and things were slow at first but has improved!  Service is quick and they've added a Sunday Buffet and Salad Bar.  More improvements to come such as extended hours.  
+Rating: 2
+Text: New owners. Cleaner and friendlier than before, but the food was disappointing. There are still much better choices elsewhere in Beloit.
+Rating: 5
+Text: Great food, drive thru is slow during lunch hour so be prepared but it is worth the wait.
+Rating: 4
+Text: New owners lot better food give it a try again you will like it
+Rating: 5
+Text: Good food to eat 

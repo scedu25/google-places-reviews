@@ -1,0 +1,11 @@
+Doll's Motel
+Rating: 4
+Text: IT's, a out standing Motel.
+Rating: 3
+Text: Its a decent place, but not so great view and the streets need repairments many potholes.
+Rating: 3
+Text: Decent for the price
+Rating: 2
+Text: There were three of us they gave us one bed.  My nephew left his PSP game in the room and they would not return it
+Rating: 1
+Text: Nasty

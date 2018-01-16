@@ -1,0 +1,11 @@
+Simple Simon's Pizza - Yates Center, KS
+Rating: 5
+Text: Tastes great and service is pleasant. Everyone there is so friendly.
+Rating: 4
+Text: Pizza is always hot and fresh
+Rating: 2
+Text: This is just gas station C-store pizza.
+It will not kill you or thrill you, it will just fill you.
+
+Rating: 2
+Text: 

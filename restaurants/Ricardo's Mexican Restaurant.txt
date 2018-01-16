@@ -1,0 +1,11 @@
+Ricardo's Mexican Restaurant
+Rating: 5
+Text: Grew up in Norfolk and every time I come home have to come and get my fill of Ricardo's.  Love it.  Great food.  Great value
+Rating: 1
+Text: Fast food at restaurant prices. No service, great if your idea of mex food is hamburger- hamburger taco, hamburger enchilada, hamburger burrito. 
+Rating: 4
+Text: One of the best places to eat. Staff are friendly and the food is amazing. Try the Fried Ice cream for dessert. You won't be disappointed. 
+Rating: 5
+Text: Ricardos has been serving tex-mex for decades.  They are consistent, clean, and fast.  The food quality is excellent, and once you find your favorite here, it is hard to go anywhere else.  The flavor of the food is unique and time tested.  My favorite place for tacos, and I love their apple grande dessert.
+Rating: 5
+Text: Very good food and staff very helpful.

@@ -1,0 +1,7 @@
+6th Street Garage Bar
+Rating: 4
+Text: Good place to go.
+Rating: 5
+Text: Great clean bar, good atmosphere.
+Rating: 2
+Text: 

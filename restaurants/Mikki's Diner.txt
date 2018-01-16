@@ -1,0 +1,11 @@
+Mikki's Diner
+Rating: 5
+Text: Excellent services, delicious food and friendly friends. I love this spot.
+Rating: 4
+Text: Nice little hidden place. The waitress was courteous and professional. Clean little place to eat. Will return.
+Rating: 3
+Text: Exactly moderate average breakfast food. Not too bad, not too good. Serving size is a bit small. Service is great though. In full disclosure I never tried lunch or dinner. Review based on breakfast
+Rating: 4
+Text: Went for breakfast and had their homemade biscuits and gravy. It was delicious! Service was great. Just could've used a little more of the yummy gravy. 
+Rating: 5
+Text: Delicious home made food!! Great hands on owner!  Good service!  Good prices!  All around great great great!

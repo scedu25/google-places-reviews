@@ -1,0 +1,11 @@
+New York Deli
+Rating: 5
+Text: Every time I eat here the food is awesome and the service is superb. For 7 bucks and some change you are not going to get a better sub!
+Rating: 5
+Text: Fantastic New York style cuisine made on the spot. Loved every experience I've had there.  Easily the friendliest employees I've met. Check this place out!
+Rating: 5
+Text: Best philly I've ever had.  Very friendly employees
+Rating: 4
+Text: Loved the Rueben and Steak Philly.  Owner is a great guy who cares if your happy.
+Rating: 5
+Text: We asked the owner what his favorite thing on the menu was and he suggested the Philly. We chose that and it was a very good choice. Nice guy, nice restaurant, great food! 

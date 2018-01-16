@@ -1,0 +1,11 @@
+Fiesta Grande
+Rating: 3
+Text: It was ok.  Know the difference between steak and beef burrito, and you'll enjoy it.
+Rating: 4
+Text: Good food and service.
+Rating: 5
+Text: Great service and food
+Rating: 3
+Text: Good food and service, very pricey!
+Rating: 5
+Text: Wonderful staff. Food is great. What more can you want?

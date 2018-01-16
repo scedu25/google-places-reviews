@@ -1,0 +1,11 @@
+Harvest Restaurant
+Rating: 5
+Text: Harvest was a flawless meal top to bottom. The cheese dip appetizer with the fresh pretzel roll was so good I cleaned the bowl with a spoon. The tartar was as delicious as it was beautiful. I had the duck breast that was without question the best I've ever ordered. I will be back.
+Rating: 4
+Text: The staff and atmosphere were great. With that being said, I was not impressed with my entree. It was well prepared, but I just didn't like the taste.
+Rating: 5
+Text: Beautiful, on-trend spot serving up southern classics with a gourmet flair. Everything was excellent (including the service.) Great for date night.
+Rating: 5
+Text: Biscuits and gravy were amazing! So good. Great atmosphere. I love that they promote the farmers that they source their food from.
+Rating: 5
+Text: Wife and I came here for brunch and it was amazing. Biscuits & gravy was delicious, as was the country fried benedict. Staff was super nice too.

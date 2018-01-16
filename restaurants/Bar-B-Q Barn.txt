@@ -1,0 +1,11 @@
+Bar-B-Q Barn
+Rating: 5
+Text: Amazing!  So good.  We travel from Minneapolis to visit family in the Harrisburg area and this is by far our favorite place to eat.  Best BBQ we've ever had!  Extremely generous portions and beyond fair prices.  Very friendly service --- treats you like family.  You don't want to miss this place!
+Rating: 4
+Text: Food is very good. Nice home cooking. We sat to visit with family after our meal & the waitress didn't come back to offer us drink refills which was frustrating but not a deal killer. The chocolate pie looked amazing but wasn't very good. We've had the coconut in the past & it was much better 
+Rating: 5
+Text: Great good. Pleasant atmosphere. Soothing background music. Courteous service.
+Rating: 3
+Text: Ok, meat is good and bbq sauce is lacking.
+Rating: 5
+Text: Great service and good food!  Took dessert home for dinner!

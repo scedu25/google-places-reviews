@@ -1,0 +1,11 @@
+Loup City Diner
+Rating: 5
+Text: Awesome, In town for the eclipse. Everyone was amazingly nice. We had the Sunday morning buffet, can't eat a other bite!
+Rating: 4
+Text: Great food, friendly people. If you're a local, it's likely they'll know you by name and family. If you're an out-of-towner like me, they'll know all the places you should check out while you're visiting. The Rueben, Hot Beef, and salad bar are all pretty good. It can be pretty busy, so if you're in a real rush, hit up the salad bar. It's got more than your typical lettuce combinations, and can fill you up on the go.
+Rating: 5
+Text: Very good food.   Enjoyed the small mom and pop resturant which is what we look for when traveling.
+Rating: 2
+Text: I had the lunch special. The fried chicken was not fresh fried it was warmed over, not good. Was more like a TV dinner. Won't go back any time soon. The bathroom was clean!
+Rating: 5
+Text: Very nice small town cafe with good food and friendly service. Typical cafe fair although some vegetarian options (like grilled cheese and grilled PB&j)

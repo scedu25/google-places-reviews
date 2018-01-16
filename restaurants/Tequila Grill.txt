@@ -1,0 +1,11 @@
+Tequila Grill
+Rating: 4
+Text: Good Mexican food. Generous portions. Friendly staff. Unique old building.
+Rating: 5
+Text: My waiter was handsome & attentive. Gr8 combo. ?
+Rating: 5
+Text: A nice place to dine at, wonderful food choices and nice waiters/waitresses
+Rating: 5
+Text: Great service, a favorite of ours to go to. Wonderful food...never had anything that was not delicious!
+Rating: 5
+Text: Great food, prices good and people friendly 

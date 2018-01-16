@@ -1,0 +1,11 @@
+Montgomery's Sandwich Shop
+Rating: 5
+Text: Ordered the Pork Tenderloin from this location. It was cooked perfectly, the staff were friendly and helpful. Highly recommend
+Rating: 1
+Text: I Did not care for this place. I'm not a "local" which is maybe why I waited at the counter for 15 minutes with no one that would take my order or even acknowledge I was sitting there. I left after I realized they didn't want my business.
+Rating: 5
+Text: An excellent quick diner style food shop with 50s rock n roll diner feel, fast and friendly service and only 5 minutes of the tollway!!!
+Rating: 4
+Text: The Old Maidrite.  Same sandwiches and a great atmosphere.   
+Rating: 4
+Text: Not technically a Maid-rite but it is basically the same thing

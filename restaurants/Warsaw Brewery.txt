@@ -1,0 +1,12 @@
+Warsaw Brewery
+Rating: 5
+Text: Great drinks and the food was excellent too!  Loved that they have reopened in my hometown!
+Rating: 5
+Text: Service was great. We had a large, slightly wound up bunch. Food was also outstanding and the prices are more than reasonable.  We will go back!
+Rating: 4
+Text: The food is so good, but service is slow with the restaurant just opening. The wait is worth it though and they have a spectacular view!
+Rating: 4
+Text: Beer was not cold 
+Waitress was awesome!
+Rating: 4
+Text: Cool place with a view. Nice outdoor seating. 

@@ -1,0 +1,11 @@
+The Pasta House Company
+Rating: 5
+Text: There were 12 of us, we were seated quickly.  The service was great.  The food was great.  We were kept supplied with bread and drinks.  Staff was friendly. What more could we want!
+Rating: 5
+Text: Outstanding service, food tasty and appealing. Good place to eat
+Rating: 4
+Text: Seated quickly, really nice server & good food
+Rating: 3
+Text: Friendly wait staff but the host station could be a little less frosty. My breadsticks weren't cooked through, but the pasta was good.
+Rating: 5
+Text: The Pasta House Restaurant was phenomenal the food was great the portions were huge wait staff was wonderful definitely five stars

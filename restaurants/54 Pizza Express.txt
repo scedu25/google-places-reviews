@@ -1,0 +1,11 @@
+54 Pizza Express
+Rating: 5
+Text: Delicious food, friendly staff and locally owned and operated. I love this place! Feels like home and the food is phenomenal!
+Rating: 5
+Text: We love the food and eat here often. Very friendly and fast service.
+Rating: 3
+Text: The food was good, prices were kind of steep.
+Rating: 5
+Text: Best pizza in the area. You really need to try it.
+Rating: 4
+Text: Always outstanding food and service, but a little pricey for pizza and pasta. 

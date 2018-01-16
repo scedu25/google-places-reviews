@@ -1,0 +1,5 @@
+Steakhouse
+Rating: 3
+Text: Typical Midwestern dive bar and grill. Decent food and friendly staff.
+Rating: 5
+Text: i dont even live here

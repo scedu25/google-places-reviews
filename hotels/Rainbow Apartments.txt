@@ -1,0 +1,11 @@
+Rainbow Apartments
+Rating: 5
+Text: My friend lives there
+Rating: 4
+Text: Need grass cut,  roads repaired
+Rating: 5
+Text: 
+Rating: 3
+Text: 
+Rating: 2
+Text: 

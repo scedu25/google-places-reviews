@@ -1,0 +1,11 @@
+Hotel Iowa
+Rating: 5
+Text: I would like to live there.
+Rating: 5
+Text: This is not a hotel! It is rental apartments for seniors and disabled!
+Rating: 5
+Text: I must like it, I live here!!!!
+Rating: 5
+Text: 
+Rating: 4
+Text: 

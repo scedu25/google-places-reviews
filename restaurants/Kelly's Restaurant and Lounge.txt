@@ -1,0 +1,11 @@
+Kelly's Restaurant and Lounge
+Rating: 5
+Text: Kelly's is awesome! Love the Margaritas!! Just wish they'd use the REAL Margarita Salt!
+Rating: 4
+Text: Good food, but confusing theme. It's an Irish-themed restaurant that serves Mexican and American food. The restaurant is also often a little loud.
+Rating: 3
+Text: Pretty good food, busboy slipped though and spilled a plate on my food.
+Rating: 5
+Text: Great food and great staff
+Rating: 5
+Text: Amber was a Great waitress. Best we have had here. Love the food

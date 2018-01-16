@@ -1,0 +1,11 @@
+Foote Cafe
+Rating: 5
+Text: Good food! Simple and hot. Couldn't ask for more.
+Rating: 5
+Text: Cool vintage place to eat. Had breakfast steak & hashbrowns...excellent. Reminder: they only take cash or check.
+Rating: 4
+Text: Wonderful cinnamon rolls! Need to make them on Sunday too.
+Rating: 5
+Text: Great local eatery.  Nice friendly service.  Great food.
+Rating: 5
+Text: Chicken fried steak you can cut with a fork and all the trimmings for under  $8

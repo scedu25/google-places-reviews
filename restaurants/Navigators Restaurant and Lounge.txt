@@ -1,0 +1,11 @@
+Navigators Restaurant and Lounge
+Rating: 5
+Text: Best steak I've gotten from a restaurant in many years. Wonderful service, fantastic meal. Very glad we stopped for a bite.
+Rating: 5
+Text: Good food good service hard to beat that 
+Rating: 4
+Text: Good food.Nice marina views.Indoor and outdoor seating.
+Rating: 5
+Text: We had great steaks Thanks to the chef!!!!
+Rating: 3
+Text: Food ok nothing special. Service was ok.

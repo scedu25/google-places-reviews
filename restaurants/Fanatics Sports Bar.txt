@@ -1,0 +1,11 @@
+Fanatics Sports Bar
+Rating: 3
+Text: This place is very busy, very large and very confusing.  I wouldn't recommend it if you are hungry or thirsty as you will wait a long time.  The atmosphere is great for mingling and having fun with friends.
+Rating: 4
+Text: Excellent pizza! Great selection of tap beers and lots of TV's for viewing sports.
+Rating: 5
+Text: Awesome place! Great food. Lots of t.v.s. Sweet beer garden. Chill staff.
+Rating: 4
+Text: The pizza and wings are delicious. If you are looking for a quick place, I wouldn't recommend going here on a busy weekend since they have a relatively small kitchen that can only handle so many orders at once. It's also really cold in there all the time, so bring a jacket. 
+Rating: 5
+Text: They have great service and cheap drinks that are worth what you pay. They have a very nice bet garden with fans, heaters, bar,, and tv. They sometimes have music. They have a large room that can be reserved for large groups and parties. The pizza is awesome.

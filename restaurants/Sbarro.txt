@@ -1,0 +1,9 @@
+Sbarro
+Rating: 5
+Text: Real good pasta and pizza
+Rating: 5
+Text: The pizza isn't that good, but the stromboli is delicious. It's always the best part about going to the mall. 
+Rating: 1
+Text: Food was good customer services was horrible 
+Rating: 5
+Text: Lovely food like it here!

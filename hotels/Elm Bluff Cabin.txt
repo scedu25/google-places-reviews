@@ -1,0 +1,11 @@
+Elm Bluff Cabin
+Rating: 5
+Text: Very impressed with the cleanliness of the cabin and it's surroundings. Our stay was very pleasant.
+Rating: 4
+Text: Nice state park setup that was clean and easy.  Mattress was in need of replacement, but great outing.
+Rating: 5
+Text: Beautiful well maintained. 
+Rating: 5
+Text: 
+Rating: 5
+Text: 

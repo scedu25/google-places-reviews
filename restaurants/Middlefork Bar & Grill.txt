@@ -1,0 +1,11 @@
+Middlefork Bar & Grill
+Rating: 4
+Text: Friendly local place with decent food
+Rating: 5
+Text: Very awesome place
+Rating: 5
+Text: . Wonderful food and pretty waitresses
+Rating: 5
+Text: 
+Rating: 4
+Text: 

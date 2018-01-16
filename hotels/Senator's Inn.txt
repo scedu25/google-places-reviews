@@ -1,0 +1,11 @@
+Senator's Inn
+Rating: 5
+Text: Great little local pub with a nicely mixed clientele.  Fun karaoke place!
+Rating: 4
+Text: The hair stylist who works there is a lovely lady who gave me an excellent haircut and style.
+Rating: 4
+Text: Cute little bar. Not necessarily some place I'd go often, but it's a fun place to check out.
+Rating: 4
+Text: Always enjoyed the place!
+Rating: 4
+Text: Stopped in for drinks and a song. Service was good, locals are friendly, and Jonesy from The Hunt for Red October took time away from sonar to run karaoke for us.

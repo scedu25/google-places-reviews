@@ -1,0 +1,11 @@
+Checkerboard Restaurant
+Rating: 5
+Text: Awesome place, best onion rings I've ever had, period. The service was great, exceptionally nice ladies, great pizza! Super cool place. Can't wait to come back
+Rating: 4
+Text: Great onion rings! Big portions,  and huge steaks! All while being economical.
+Rating: 4
+Text: We love talking the grandkids here. The onion rings are absolutely the best. We usually get pizza.
+Rating: 5
+Text: Always have come visit when I am back from Texas!!! Always great!!
+Rating: 4
+Text: Good pizza and awesome onion rings.

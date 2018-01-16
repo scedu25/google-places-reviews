@@ -1,0 +1,11 @@
+Kalona Sales Barn Lunchroom
+Rating: 5
+Text: Good food and great service as always.
+Rating: 5
+Text: Good prices on food and drink
+Rating: 5
+Text: Good food very nice people 
+Rating: 5
+Text: Reasonable prices with excellent service or help
+Rating: 5
+Text: Delishious food great service! 

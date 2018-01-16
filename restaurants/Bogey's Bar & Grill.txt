@@ -1,0 +1,11 @@
+Bogey's Bar & Grill
+Rating: 5
+Text: Nice place. Drinks. Slam bam shrimp are super good
+Rating: 5
+Text: Great place good food, awesome atmosphere, great people!
+Rating: 5
+Text: Excellent food and service. Nice scenery ,
+Rating: 5
+Text: Awsome place. Great atmosphere. Best bartenders in the world. 
+Rating: 5
+Text: Great food

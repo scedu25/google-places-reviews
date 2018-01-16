@@ -1,0 +1,11 @@
+Leroy's Steakhouse
+Rating: 5
+Text: Really good steak. Service was fast. Waitress was attentive but not overly. Prices are very reasonable. I'll be going back to try the ribeye next.
+Rating: 5
+Text: Love eating here.  We have our favorites and rarely look the menu.  Fabulous homemade food. Doesn't matter if it's called Rawhide or Leroy's,  the recipes are as delicious as I have remembered since childhood.   Prices are reasonable,  portion size big and a comfortable place to enjoy a great meal!
+Rating: 5
+Text: Great food, great service.  Prices reasonable for a steakhouse.  My personal favorite is the chicken fried steak.
+Rating: 4
+Text: I enjoyed the baked walleye, the service was great. Prices was fair and overall was satisfied all around. My daughter had a steak and enjoyed it as well.
+Rating: 5
+Text: The food was great and the prices were good too.

@@ -1,0 +1,9 @@
+The Paddock Inn Bed and Breakfast
+Rating: 5
+Text: Very nice!
+Rating: 5
+Text: Excellent service 
+Rating: 3
+Text: 
+Rating: 5
+Text: 

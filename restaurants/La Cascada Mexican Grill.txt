@@ -1,0 +1,11 @@
+La Cascada Mexican Grill
+Rating: 5
+Text: Very good Mexican food served here! Great service also!
+Rating: 5
+Text: My favorite place to go in the area, food is always great!
+Rating: 4
+Text: Typical low key Mexican restaurant. Good food, fast service, reasonable prices.
+Rating: 1
+Text: Awesome food great price
+Rating: 4
+Text: The food is good and well priced.  Staff was friendly. Clean restrooms. 

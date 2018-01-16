@@ -1,0 +1,11 @@
+Buffalo Roam Steak House
+Rating: 5
+Text: Great food.  Excellent service.   No breakfast and hard to get trucks in. But worth parking down the road and walking in.
+Rating: 4
+Text: Buffet was really good. Nice local place. Short on drink options.
+Rating: 5
+Text: Good food, great prices, nice atmosphere
+Rating: 3
+Text: Descent buffet with a good price but nothing I can brag about.
+Rating: 5
+Text: Clean;, home style food; great people and service!

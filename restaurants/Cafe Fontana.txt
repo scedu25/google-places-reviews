@@ -1,0 +1,11 @@
+Cafe Fontana
+Rating: 5
+Text: The Chicken Parmesan was great! I went with my team from College of Dupage and the service was great! Highly recommend this place, super cute inside and lots of options to eat!
+Rating: 5
+Text: The food is always excellent with lots of fresh ingredients. The staff members always smile and check on you enough times to not be intrusive.
+Rating: 5
+Text: Good food,  fast, friendly service, reasonable prices! Great place to eat!
+Rating: 5
+Text: Good food and great service.  Clean.  Prices are reasonable.
+Rating: 5
+Text: Salads are very good....plus it's the healthiest place to eat in town.

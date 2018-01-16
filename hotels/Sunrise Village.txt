@@ -1,0 +1,11 @@
+Sunrise Village
+Rating: 5
+Text: Best homes
+Rating: 5
+Text: Pleasant
+Rating: 3
+Text: Ok trailer park. Strange road system. 
+Rating: 1
+Text: Was not allowed to reside in this trailer park
+Rating: 1
+Text: I do not live here

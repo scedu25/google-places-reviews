@@ -1,0 +1,11 @@
+Max and Molly's Bistro
+Rating: 4
+Text: This is a very good place to eat.  The food was delicious and the staff were very friendly and helpful.  It was noontime and they were very busy.  We got our food in a timely manner.  Highly recommend!
+Rating: 5
+Text: One of the best little dinners in Macomb. Great for breakfast and brunch, especially if you can grab one of the cinnamon rolls. Sandwiches and burgers are great too. Just an all-around good place to eat.
+Rating: 5
+Text: We enjoy going to Max & Molly's. The owners and staff are always very friendly. I highly recommend taking your family because kids eat free certain days of the week!
+Rating: 2
+Text: The service was not great. Our waitress seemed like she didn't want to be there, I was served coffee in a dirty cup, never got my soup, and our food was served cold. The first time I went there was with my Aunt, and service and food was great.
+Rating: 1
+Text: Just ordered 4 pieces of white toast to go thinking it would be a couple of dollars at the most...paid $4.36 and got wheat toast! Guess i won't make that mistake again!

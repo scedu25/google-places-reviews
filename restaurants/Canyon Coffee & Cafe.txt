@@ -1,0 +1,13 @@
+Canyon Coffee & Cafe
+Rating: 5
+Text: Fresh foods and great service.
+Rating: 5
+Text: Delicious as always! ?
+Rating: 5
+Text: The bagel was fantastic. The cream cheese made to order. Would go back.
+Rating: 5
+Text: Bagels with homemade blended cream cheese. Gourmet coffee and teas made to order. 
+
+Service is courteous and quick! 
+Rating: 5
+Text: Since the new ownership, it has been a very good place to go eat.  The people are always friendly and courteous.  

@@ -1,0 +1,11 @@
+Culver's
+Rating: 5
+Text: Very clean restaurant. Food was awesome.  Service was courteous and quick. They’re in the process of remodeling but don’t let that stop you from going there. You won’t be sorry.
+Rating: 4
+Text: The food was hot and made very quickly. The Frozen custard tasted great! The food overall was really good even with the restaurant bein under construction.
+Rating: 1
+Text: The service was unfriendly and the restaurant was not clean. "Lost" order of 2 ice cream cones and had to wait 20 minutes. When we received the cones, they were melted and tasted terrible.
+Rating: 5
+Text: Even under construction, this place is one of the best stops on your way between Chicago and St. Louis.
+Rating: 5
+Text: Jessica the Manager was very impressive!  Excellent sense of urgency!  It has been a very long time since I have seen someone with that type of work ethic!  I would strongly recommend!

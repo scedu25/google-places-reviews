@@ -1,0 +1,11 @@
+Center Fire Pizza
+Rating: 5
+Text: Great Stone fired pizza.   Family owned and operated.  Great people and food
+Rating: 5
+Text: Best tasting pizza for a small town with authentic Italian sauces and ingredients. Well done. Hand raised dough cooked in a wood fire oven, can't be beat.
+Rating: 5
+Text: Pizza was the best we had for years. Tasted like real cheese, had plenty of topping. Wished you were  closer to us. Thanks. People are friendly.
+Rating: 5
+Text: Great pizza, fresh ingredients, very friendly owners. I'll visit again!
+Rating: 5
+Text: Best pizza around...Best food around! Greatest addition to our area since....ever probably! 

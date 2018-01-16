@@ -1,0 +1,11 @@
+Dave's Pizza & Wings
+Rating: 4
+Text: Chicken Bacon Ranch pizza is amazing. Prices are pretty good, as are the staff.
+Rating: 1
+Text: Service here was awful.  Food sub-par.  Atmosphere not exciting, not clean.  Nothing at all I can recommend about this restaurant.
+Rating: 5
+Text: Great pizza options. I've had several wing flavors and have not been disappointed. The cannelloni is awesome as well.  I love the hot dog choices for lunch. The recent addition of draft beer is a welcome addition and so far I love the beer choices. 
+Rating: 4
+Text: Good food and a nice place for lunch. Fun menu items like custom fries.
+Rating: 5
+Text: I enjoy the wings everytime!  Never tried the pizza, but I hear it's just as good.

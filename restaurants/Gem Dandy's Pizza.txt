@@ -1,0 +1,14 @@
+Gem Dandy's Pizza
+Rating: 5
+Text: Excellent small town pizza restaurant! Delicious pizza, friendly staff, and a great atmosphere. What more can you ask for? If you are around Jasper, MO you should stop by for lunch or dinner. 
+Rating: 5
+Text: We stopped here on our way back to KC and loved the pizza...atmosphere and for sure the service.  We will be back!!!
+Rating: 4
+Text: Is really good ?
+Rating: 5
+Text: The food is very good and made however you like it. The people are very kind, fun, and attentive. A perfect place to take the family.
+Rating: 5
+Text: The workers are extremely nice,
+They have a great variety on the menu,
+Fast service and great food,
+All at a very good price! 

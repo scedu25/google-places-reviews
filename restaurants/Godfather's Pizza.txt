@@ -1,0 +1,11 @@
+Godfather's Pizza
+Rating: 5
+Text: good food quick service polite 
+Rating: 4
+Text: Its not bad
+Rating: 4
+Text: Good Buffett lunch
+Rating: 4
+Text: Good place to get a pizza and snacks 
+Rating: 4
+Text: 

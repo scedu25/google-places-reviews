@@ -1,0 +1,11 @@
+Broad Street Cafe
+Rating: 4
+Text: Above average bagels made fresh and pulled a borderline big city espresso. Nice
+Rating: 5
+Text: The best bagel shop in Southwest Michigan. I have been going here for years and telling them they should raise the prices. They never listen and you can still get a bagel and coffee for less than $2.25 if you play your cards right. Go there, meet friends, read the newspaper, and say 'Hey' to my Dad who still goes every day.
+Rating: 4
+Text: Great bagels and bagel sandwiches! This a great place to visit during lunch. Hope you have a chance to stop. The service is good with lots of friendly faces!
+Rating: 4
+Text: A bit slow in a rush but fresh bagels and good coffee. 
+Rating: 5
+Text: Very good bagels, reasonable prices and a friendly staff.  Atmosphere is great as well.  Will definitely visit again the next time I'm in the area.

@@ -1,0 +1,11 @@
+William Watson Hotel
+Rating: 5
+Text: This is a wonderful establishment. Great atmosphere!  Takes you  back in time. The staff is awesome.  Recommend  it to everyone.  We stay there frequently. 
+Rating: 5
+Text: This hotel has old-fashioned charm and character with modern amenities. Loved the "breakfast room" which is actually open 24 hours. Just help yourself to whatever is in the fridge, just like home. There is good coffee on hand and even better coffee in the cool attached coffee bar. This is an awesome place to stay!
+Rating: 4
+Text: The detail in the lobby is beautiful. The attached coffee shop Free Press is amazing!
+Rating: 4
+Text: Very nice and we'll kept hotel with an old feel to it. Kid friendly, family hotel and would stay there again.
+Rating: 5
+Text: Great little hotel, by far the best in Pittsfield. Room was clean, decor was nice and staff was very friendly and helpful.

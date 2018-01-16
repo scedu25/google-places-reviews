@@ -1,0 +1,11 @@
+Club LaCon
+Rating: 5
+Text: They have wonderful spaghetti all-you-can-eat specials on Monday nights the spaghetti taste awesome
+Rating: 4
+Text: This is a good place for a good home cooked meal!
+Rating: 5
+Text: Friendly people ?
+Rating: 3
+Text: Food was ok service is slow 
+Rating: 4
+Text: Very good food.  Fried chicken had Wonderful coating, yummy corn fritters.

@@ -1,0 +1,11 @@
+Orleans Hotel
+Rating: 5
+Text: Marilyn and Dave have put their heart and soul into this place and you can see the evidence of it everywhere. Staying here transports you to another era. Thank you both for being such good hosts!
+Rating: 4
+Text: A cool historic experience. The rooms were well decorated, and the food was good as well. Typically quite and a good place to chill.
+Rating: 5
+Text: Very nice historical hotel! Very clean rooms, great food and friendly staff.
+Rating: 4
+Text: Lovely little hotel with a museum feel.
+Rating: 5
+Text: Nice place.

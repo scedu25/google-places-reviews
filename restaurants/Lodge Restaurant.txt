@@ -1,0 +1,11 @@
+Lodge Restaurant
+Rating: 5
+Text: Very good meal. The outside makes you wonder but as soon as you walk in, you're greeted with a warm and inviting staff. The prime is amazing. I also recommend the chicken fried chicken. Take a chance! Live a little - it's worth it!
+Rating: 4
+Text: Great food. Quiet "hole in the wall" place to eat.
+Rating: 4
+Text: When I come to Kearney to shop, I stop at the lodge, it's cozy, friendly, and I can check my phone, in a quiet relaxed atmosphere.
+Rating: 5
+Text: Prime rib is excellent. Weekday specials have large portions; excellent value.
+Rating: 4
+Text: Great service and great food!

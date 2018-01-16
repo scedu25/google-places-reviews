@@ -1,0 +1,12 @@
+Keith's Cafe
+Rating: 4
+Text: Good tasting food good waitresses good place to eat
+Rating: 5
+Text: A great small town dining experience. Great food accompanied by excellent wait staff!
+Rating: 2
+Text: Won't take debit cards, cash only. That's not good when you travel. Food is just average. Not much seating and bathroom is horrible.
+Rating: 5
+Text: Great steaks, delicious tenderloins, and their burgers are the best I've ever had. Now, the hand made French fries are without peer. They are art. They are a reason to live. They are proof that God loves us and wants us to be happy. 
+The prices are very reasonable and the staff is pleasant and attentive.
+Rating: 4
+Text: A great place to grab a homemade meal. Even during the lunch rush, I was served quickly and waited on often. Heads up: they DO NOT take credit or debit cards, cash ONLY.

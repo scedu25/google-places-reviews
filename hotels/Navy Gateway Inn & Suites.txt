@@ -1,0 +1,11 @@
+Navy Gateway Inn & Suites
+Rating: 4
+Text: Solid value for price.
+Rating: 4
+Text: Clean rooms, great staff.
+Rating: 5
+Text: Excellent
+Rating: 4
+Text: Very nice! Quiet and clean!
+Rating: 4
+Text: Very nice accommodations and staff, however there is nothing around here as far as food or nightlife.

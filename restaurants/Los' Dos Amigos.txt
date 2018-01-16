@@ -1,0 +1,11 @@
+Los' Dos Amigos
+Rating: 5
+Text: Just passing through, and asked a local for recommendation. I must say, great restaurant. The service is tops, people are friendly and attentive. Food is good, authentic and good size portions.  Highly recommend.
+Rating: 5
+Text: Awesome food! Reasonably priced. Great Service.
+Rating: 5
+Text: Great restaurant style Mexican food. I filled up too quickly on chips and salsa.
+Rating: 5
+Text: Tried this place for lunch today. Food was great! Highly recommend!
+Rating: 5
+Text: The food was quick and amazing. Very good price. Very awesome people.  I will definitely go to this place again.

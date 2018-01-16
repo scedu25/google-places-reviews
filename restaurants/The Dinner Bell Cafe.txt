@@ -1,0 +1,11 @@
+The Dinner Bell Cafe
+Rating: 4
+Text: Great place, good food, friendly service and small town charm.
+Rating: 4
+Text: Great, filling comfort food with staff more friendly than family. You'd have to travel several miles to even get a morsel otherwise. You'd have to go 50 miles to get anything like competition.
+Rating: 5
+Text: Good, home-style cooking.  Very friendly.
+Rating: 2
+Text: Poor options on food.  Very basic very small town cafe.  I guess the community is just lucky to have a place to eat out.  But the restrooms were clean.
+Rating: 5
+Text: Excellent food and service

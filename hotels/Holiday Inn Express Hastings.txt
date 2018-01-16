@@ -1,0 +1,11 @@
+Holiday Inn Express Hastings
+Rating: 5
+Text: This hotel was very nice and exceptionally clean. Several nice restaurants nearby. Highly recommend!
+Rating: 4
+Text: I think the rooms are nice. The bathroom light is super bright tho I think it should be on a dimmer switch. The pool room is a bit outdated. Could use some updating. The breakfast is always great so that's a plus.
+Rating: 5
+Text: The staff was very welcoming and friendly. The rooms were spacious, clean, and had great climate control. There was a large variety of complementary breakfast foods over the course of the morning hours. The location was excellent for visiting Hastings. Pretty much nothing bad to say about my stay. 
+Rating: 4
+Text: Everything was great! There was a problem with the shower faucet but the maintenance crew got it fixed right away and they even have us a 2:00 check out for the hassle. I'd be staying here again next time I'm in Hastings.
+Rating: 5
+Text: The room was very well kept and the beds were comfortable. The breakfast was really good too. We had a great experience overall.

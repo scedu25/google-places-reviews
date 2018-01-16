@@ -1,0 +1,7 @@
+Budget Inn
+Rating: 5
+Text: No rooms were available and process were higher than they should have been
+Rating: 3
+Text: It was pleasant 
+Rating: 1
+Text: 

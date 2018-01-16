@@ -1,0 +1,11 @@
+Area Three Campground
+Rating: 5
+Text: Love this lake. Its peaceful camping sites are spacious would recommend this spot for anyone wanting to get away from town life. 
+Rating: 1
+Text: A lot of birds live here. Not great for camping.
+Rating: 5
+Text: Great place to camp 
+Rating: 4
+Text: primitive camping
+Rating: 5
+Text: 

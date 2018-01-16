@@ -1,0 +1,11 @@
+Water Street Bar & Grill
+Rating: 5
+Text: Best burger on the river. A must stop for boaters.  Good atmosphere and drinks
+Rating: 5
+Text: Great staff.  April Wright and Amanda Fields are good people and treat my friends very well. 
+Rating: 4
+Text: Awesome place on the Kaskaskia river! It's a must stop whenever we are in the area
+Rating: 5
+Text: Great hangout on the river. Literally on the river!
+Rating: 3
+Text: Ok

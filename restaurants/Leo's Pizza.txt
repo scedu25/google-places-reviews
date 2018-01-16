@@ -1,0 +1,11 @@
+Leo's Pizza
+Rating: 5
+Text: This Leo's Pizza easily ranks 10 Stars out of 5!  The Friendliness of the greeting coupled with over the top service matched by the most amazing pizza.  Not only does the Hostess and the Table Server check on you, even The Cook comes to ensure all is well with your dinner.
+Rating: 5
+Text: I drove out of town to visit a friend. We went here for lunch. Had the Sicilian pizza. Was worth the drive ?
+Rating: 4
+Text: Great food. The place looks really nice!
+Rating: 1
+Text: Its ok. Not the best. Pizza wasnt very good the inferno wings need sauce not dry rub.. wont be goung back.
+Rating: 5
+Text: AMAZING!!! The pizza is amazing. Beautiful restaurant, amazing food, I couldn't ask for a better pizza place!

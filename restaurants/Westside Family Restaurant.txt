@@ -1,0 +1,11 @@
+Westside Family Restaurant
+Rating: 5
+Text: Great customer service. The food is awesome. We always come here for breakfast, when we make it back to Grinnell.
+Rating: 3
+Text: What's for breakfast? Typical greeting from the friendly server who took our order. I had my usual breakfast order: dippy eggs (eggs over medium), hash browns, toast and sausage patties. You could get sausage links if you prefer. Coffee is just so-so, like most of the coffee served in Grinnell. Hash browns seemed like they were from a bag-so just average. Eggs and sausage were tasty. 
+Rating: 2
+Text: The waitress was very kind and attentive. The food was not good. Bacon was over cooked and the hot beef meat was flavorless and tough. The pie was dry.
+Rating: 5
+Text: Best Prime Rib ever!!! 5 stars are not even enough!!! Great service, great people ,must try their pies!!! Delicious!!
+Rating: 4
+Text: Very good food a little pricy but good food!

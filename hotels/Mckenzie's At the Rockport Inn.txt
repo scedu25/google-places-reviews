@@ -1,0 +1,11 @@
+Mckenzie's At the Rockport Inn
+Rating: 5
+Text: Great destination restaurant... good food... good service... good price
+Rating: 5
+Text: Really good food here and service is great
+Rating: 4
+Text: Nicest dining option in town.
+Rating: 4
+Text: Good food and friendly service with a nice salad bar
+Rating: 5
+Text: Great place for some great food and a cold drink !

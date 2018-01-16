@@ -1,0 +1,11 @@
+Church's Chicken
+Rating: 1
+Text: Really bad service. Employees don't seem to care about the customer or completing anything in a clean or timely manner. Inside of the place is trashed.
+Rating: 4
+Text: Best in town for chicken. Friendly. Always busy.
+Rating: 5
+Text: Best Church's ever. Good food and great service. People who work there seem to enjoy their jobs and make customers feel welcome.
+Rating: 3
+Text: They have good mashed potatoes but their chicken stinks they have good service
+Rating: 4
+Text: Stopped in to try the honey spice chicken they didn't have still the strips were very good. Not too much batter biscuit was ok a little too much butter in it.

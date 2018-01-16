@@ -1,0 +1,11 @@
+Imperial Estates
+Rating: 5
+Text: Ok somtimes
+Rating: 3
+Text: Its ok
+Rating: 5
+Text: Centrally located and well maintained street.
+Rating: 5
+Text: 
+Rating: 5
+Text: 

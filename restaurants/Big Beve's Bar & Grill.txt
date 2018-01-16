@@ -1,0 +1,12 @@
+Big Beve's Bar & Grill
+Rating: 2
+Text: Always great food
+Super friendly, courteous, efficient service. Our go to place for a good dining experience. 
+Rating: 5
+Text: We just LOVE the breakfast on Sundays. The chicken fried steak is the best I have ever had.We love to come for lunch and supper too. Always great food and very friendly attentive service.
+Rating: 4
+Text: Good local food. Only will take cash or checks. 
+Rating: 5
+Text: Great food and service.
+Rating: 5
+Text: Great Mexican food

@@ -1,0 +1,11 @@
+Beeds Landing Area Campground
+Rating: 3
+Text: Big campground overly crowded
+Rating: 5
+Text: Awesome
+Rating: 5
+Text: Beautiful place to camp 
+Rating: 3
+Text: 
+Rating: 5
+Text: 

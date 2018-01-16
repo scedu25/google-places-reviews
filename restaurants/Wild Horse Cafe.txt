@@ -1,0 +1,11 @@
+Wild Horse Cafe
+Rating: 3
+Text: This is about the best our area has to offer.  Nice views of the river.  The food is pretty good.  I really can't comment on the bar.  Staff could stand to be friendlier;  all of them act as if they've never had a day of fun in their whole lives.
+Rating: 5
+Text: The staff was great for our food and the service was wonderful.  All questions were answered because I am on special diet. Recommend highly!
+Rating: 2
+Text: The food was good, but the prices are to high, for the amount. I would go Texas Road for a great steak at a better price.
+Rating: 5
+Text: We had a great waitress, a wonderful view, and Delicious food. My husband and I both had Ribeyes and our daughter had the Buffalo Mac and cheese with chicken. ALL was very good.
+Rating: 5
+Text: Great food and a very friendly waitress. The view of the river in the deck was very pleasant. I ordered the prime rib and it was cooked a perfect medium rare.

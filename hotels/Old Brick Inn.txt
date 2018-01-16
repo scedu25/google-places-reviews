@@ -1,0 +1,11 @@
+Old Brick Inn
+Rating: 5
+Text: Good location.
+Rating: 3
+Text: The building looks more like an old home than it does a hotel. I did not go inside.
+Rating: 5
+Text: The old brick inn is located in chrisman IL the service was wonderful 
+Rating: 5
+Text: Very nice 10/10
+Rating: 1
+Text: 

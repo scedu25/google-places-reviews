@@ -1,0 +1,11 @@
+Rudy's Restaurant
+Rating: 4
+Text: This place is great! We have never had a bad experience there. Its a real down home restaurant. Theres something on the menu 4 everyone. They even have all u can eat suppers on the weekends.
+Rating: 5
+Text: Good food great price wonderful service
+Rating: 4
+Text: Good food and very easy to find. I can see why the local people eat there.
+Rating: 5
+Text: Busy rainy morning. One waitress. Still smiled and gave good service. Food was yummy as always. 
+Rating: 5
+Text: The best!  Always great food, great service!

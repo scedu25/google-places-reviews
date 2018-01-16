@@ -1,0 +1,11 @@
+Sun Parlor Motel
+Rating: 4
+Text: Nice and clean motel. Owner is friendly and helpful. The superior room is well equipped with big refrigerator, oven and some kitchen utensils. Good location too.
+Rating: 5
+Text: Best value in town. Owner is very nice.
+Rating: 5
+Text: The staff are fantasia   will help you in any matters   even if something  goes wrong
+Rating: 5
+Text: Phenomenal motel, like a home away from home.
+Rating: 4
+Text: Clean and comfortable with great hospitality.

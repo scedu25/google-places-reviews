@@ -1,0 +1,18 @@
+Country Inn Motel
+Rating: 5
+Text: I'm here on a contract for work and Sam is the greatest. The motel is conveniently located and he does what he can to make sure you're comfortable. The rooms are nice, beds are soft, and FREE WIFI.
+Rating: 1
+Text: I would not stay there we checked in and checked out within 20 minutes.
+Rating: 3
+Text: Friendly staff. It was a decent sleep and no problems with the room.
+Rating: 3
+Text: Great. Easy nice stay. Just wish there was a pool bit it's a small town so it's good for a nice stay in a small town.
+Rating: 5
+Text: Bed: A+
+TV: C-
+Bathroom: C
+Wi-Fi: D-
+Cleanliness: A
+Price: cheap as hell
+Service: they were very nice. They're working hard.
+Value: A

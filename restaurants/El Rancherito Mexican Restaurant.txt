@@ -1,0 +1,11 @@
+El Rancherito Mexican Restaurant
+Rating: 5
+Text: Very nice! Service and the food was excellent! Server was awesome!
+Rating: 4
+Text: Big portions, great wait staff, good pricing
+Rating: 5
+Text: Always friendly service, really good food, and a quiet setting
+Rating: 5
+Text: Very friendly. Food was fast and good. Kept drinks and salsa full
+Rating: 5
+Text: Great service and amazing food! This is our favorite spot to eat in town!!

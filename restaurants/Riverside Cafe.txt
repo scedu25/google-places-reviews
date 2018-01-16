@@ -1,0 +1,11 @@
+Riverside Cafe
+Rating: 5
+Text: Very good food! Their lemonade is amazing! And very very friendly people! Place is clean and has that small town older time cafe feel about it! I would recommend to anybody!
+Rating: 5
+Text: The food was good,  and the service was great!  I will return.  I will also recommend Riverside Cafe to my friends and family. 
+Rating: 5
+Text: Really good breakfast, I will go out of my way to get back there when I'm in the area.
+Rating: 2
+Text: Ordered the Denver omlett. Comes with hash browns and toast.  Service was expected.  Food was mediocre at best. Omlett was eggs fried on grill with vegetables thrown on and warmed. Toast was saturated in butter and hash browns were just plain greasy. 
+Rating: 4
+Text: Yummy comfort food, great breakfast, friendly service. 

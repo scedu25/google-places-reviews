@@ -1,0 +1,11 @@
+Village Cafe
+Rating: 5
+Text: Great diner food. Really good burgers.
+Rating: 3
+Text: I didn't eat a meal, but we had some pastries that were excellent. Prices were very high. It was very neat and clean. Attached is a gas station and party store.  Service was slow and unattentive.
+Rating: 4
+Text: Stopped here and noticed the village cafe.  Woot woot, Danish Kringles! The server was nice and answered our questions and hooked us up with tasty breakfast snacks.
+Rating: 5
+Text: excellenct place 
+Rating: 5
+Text: Awesome gas station 

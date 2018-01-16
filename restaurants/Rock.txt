@@ -1,0 +1,11 @@
+Rock
+Rating: 3
+Text: Your basic Small Town Burger Joint and Bar. Amy will take care of you at the bar
+Rating: 5
+Text: fun place...evening bartender will keep you laughing...
+Rating: 4
+Text: Great food. The noon buffet is a real bargain and delicious. The staff is friendly and down home efficient.
+Rating: 5
+Text: Nice place to hang out and eat
+Rating: 4
+Text: They have great rib eye steaks. 

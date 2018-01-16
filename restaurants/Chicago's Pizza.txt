@@ -1,0 +1,11 @@
+Chicago's Pizza
+Rating: 5
+Text: Best deep dish I have had in a long time. Our waitress was very attentive. Definitely coming back.
+Rating: 5
+Text: This place is amazing not only are their pizzas great but their hospitality is even better! Our waitress, Courtney, was astounding! She was so friendly and just made our night better. Not from around here but this place makes me want to come back. 
+Rating: 5
+Text: Pizza is delicious! Gluten free option. Service is prompt and friendly. Salad bar really good. Restaurant is clean and atmosphere is comfortable. 
+Rating: 5
+Text: Anytime we go to Tell City to a ball game we usually stop here to have some Pizza.  Always clean and good food.
+Rating: 4
+Text: Really good pizza and salad bar, good family atmosphere

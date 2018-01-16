@@ -1,0 +1,11 @@
+Livermore RV Park
+Rating: 5
+Text: Great place to stay
+Rating: 5
+Text: Wonderful place!
+Rating: 4
+Text: Very enjoyable.
+Rating: 4
+Text: We love the Livermore RV Park it is very peaceful. Nothing beats sitting in a swing under a tree watching the river flow by.
+Rating: 4
+Text: Peaceful

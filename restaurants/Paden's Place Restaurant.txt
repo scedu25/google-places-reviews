@@ -1,0 +1,11 @@
+Paden's Place Restaurant
+Rating: 4
+Text: Very nice place.  Good food.  Very popular local place.
+Rating: 5
+Text: Pulled pork and slaw sandwich is great and the best steak in Ellsworth County
+Rating: 3
+Text: Pretty good food. Weird service staff, but efficient and helpful so that evens it out. Cozy and dive like feel. Recommended if you drive through. 3
+Rating: 5
+Text: A great place to go with the family for a tasty sit down meal. There is a restaurant side and a sports bar side to this restaurant. Either side is family friendly and you can even play some pool.
+Rating: 5
+Text: Best G. D. Bar Ever...... Try the wings!!!

@@ -1,0 +1,11 @@
+Green Gables of Pleasant Valley
+Rating: 5
+Text: Great place to eat, really delicious pie
+Rating: 4
+Text: Good food in a really fun location. Friendly to children. Amazing desserts.
+Rating: 5
+Text: This place is one of a kind in the middle of nowhere! Dont skip the meal! Its good home cookin and you wont leave hungry great friendly service and plenty to look at as you wait for ur delicious meal. But do save room for the homemade pie!
+Rating: 5
+Text: Excellent food.  Fun atmosphere.
+Rating: 5
+Text: Fun place and great food

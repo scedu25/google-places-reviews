@@ -1,0 +1,11 @@
+Gelsosomo's Pizzeria
+Rating: 5
+Text: I love this place. The food is awesome and the staff is great. This restaurant would be my 1st choice to recommend for Italian food.
+Rating: 4
+Text: Try the deep dish pizza--you won't regret it! I'm sure a purist will say it's not as good as the ones in Chicago, and they may be right, but it's still the best pizza I've had in Macomb.
+Rating: 5
+Text: Great food, good price, and EXCELLENT service... Highly recommend!!
+Rating: 5
+Text: Loved my lunch with my guy.... great guy serving us too!!
+Rating: 5
+Text: Loved the lunch pizza buffet and great service!

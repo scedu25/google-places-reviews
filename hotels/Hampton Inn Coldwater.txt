@@ -1,0 +1,11 @@
+Hampton Inn Coldwater
+Rating: 5
+Text: Like most Hampton's, Coldwater has a warm and accommodating staff. They have gone above and beyond to accommodate my needs, as always. I will always come back here, this is home in Coldwater.
+Rating: 3
+Text: Average example of a Hampton Inn. Not new, not decrepit, but definitely a bit worn down, and could use some TLC.
+Rating: 4
+Text: Only spent one night.  The staff was very friendly, breakfast was also good.  Cleanliness was good.
+Rating: 5
+Text: Good for small town in the middle of nowhere
+Rating: 4
+Text: Very nice and clean. Staff nice and helpful.

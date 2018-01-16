@@ -1,0 +1,11 @@
+Chinese Food Express
+Rating: 5
+Text: Fantastic food. I had the General Tso Chicken. It was hot, fresh, and made right. The rice was cooked correctly and the  roll was huge. Friendly staff and the owners are wonderful people.
+Rating: 5
+Text: Super friendly employees and excellent food! Huge portions for the price!
+Rating: 5
+Text: Good food, nice service!
+Rating: 5
+Text: Great meal, great service!!
+Rating: 5
+Text: So Yummy

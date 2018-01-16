@@ -1,0 +1,5 @@
+Vine Street Cafe
+Rating: 5
+Text: Great place for small town lunch!
+Rating: 4
+Text: Good food good service

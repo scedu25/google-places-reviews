@@ -1,0 +1,11 @@
+Skillet Restaurant
+Rating: 4
+Text: Great food and service. Little pricey
+Rating: 5
+Text: As always wonderful food, great service and atmosphere. Highly recommend.
+Rating: 5
+Text: My wife sez she would wait in line for the food,It's great! We'll be eating there again soon!
+Rating: 5
+Text: Awesome food and the best service !!
+Rating: 5
+Text: Really good food. Big menu with options for all. 

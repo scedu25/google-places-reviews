@@ -1,0 +1,11 @@
+Padanos Pizza
+Rating: 4
+Text: The pizza is decent, I would try the other menu items next time.
+Rating: 5
+Text: Great food, fresh ingredients locally, and great service
+Rating: 5
+Text: Don't know what the one star review is talking about! I've never experienced anything like that. Great owner, great pizza, great deals. End of story.
+Rating: 4
+Text: Great authentic pizza, decent prices and they deliver!
+Rating: 5
+Text: We always get the Subs. Made with fresh ingredients . The owner cares about what you walk out the door with. I won't by subs from anywhere else. Plenty of food for your money. Nice prices.

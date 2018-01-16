@@ -1,0 +1,11 @@
+Jhetts Pizza
+Rating: 4
+Text: A bit pricey but it's got that small town goodness good for them 
+Rating: 5
+Text: Best pizza in Jackson and Shawnee Counties
+Rating: 5
+Text: Pizza is the bomb
+Rating: 3
+Text: Not open mondays. No idea why just not. Would get better review but not being open Mondays is pretty bad.
+Rating: 5
+Text: This pizza is so delicious! Seriously some great eats-especially if you like cheese! 

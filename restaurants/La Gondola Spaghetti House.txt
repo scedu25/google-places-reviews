@@ -1,0 +1,11 @@
+La Gondola Spaghetti House
+Rating: 5
+Text: Good food and great customer service.  Wonderful local business.
+Rating: 4
+Text: The food is good but the portions seem a little small. Thursday specials are great
+Rating: 5
+Text: Consistently good food, friendly and fast service, updated menu with some new items. Try the new Ruben sandwich.
+Rating: 4
+Text: I visited this location on Saturday for dinner. We ordered a half gallon of spaghetti and garlic bread. The food is amazing! I also love the salads, especially the Asian Chicken Salad. However, the person working the counter could have used a little more help and it seems like the restaurant could have been set up a little more efficiently to serve customers faster. It seemed like there was a few people working, but the girl at the counter was running around between the back to check on orders, the front counter to take orders and the drive thru.
+Rating: 5
+Text: Always good food and great service

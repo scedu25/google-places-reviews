@@ -1,0 +1,11 @@
+Rick's Restaurant
+Rating: 2
+Text: Steaks are cooked to a crisp. Deep fried chicken was delicious though. Wait staff was brutal. Every table was full of dirty dishes waiting to be picked up. And don't ask for a straw or napkins, you'll get the evil eye.
+Rating: 5
+Text: Delicious food Low prices! Worth every cent!
+Rating: 5
+Text: Good ol' greasy spoon. Could be a little cleaner but it is great food at a reasonable price in an old fashioned setting. 
+Rating: 5
+Text: Great place to eat always stop when we're passing through ?
+Rating: 5
+Text: Excellent food and awesome staff.

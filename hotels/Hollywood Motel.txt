@@ -1,0 +1,12 @@
+Hollywood Motel
+Rating: 5
+Text: It was great service and affordable. Rooms were clean.
+Rating: 5
+Text: Very nice family ran business. Nice clean rooms and reasonable rates.
+
+Rating: 1
+Text: Do not stay here...it has served as the location of the largest drug bust in city history and is a common place for activities such as that. Also its dirty, gross, bug infested, poorly operated, and run by cheating scoundrels, lol on the last part but all true
+Rating: 1
+Text: Dirty and has cockroaches. 
+Rating: 3
+Text: Relatively clean, quiet

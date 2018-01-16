@@ -1,0 +1,11 @@
+Creston Family Restaurant
+Rating: 5
+Text: I absolutely love this restaurant. Friendly service tasty food at a low price. I bring my family here very often
+Rating: 4
+Text: Good service and ta$ty western omelette with hashbrowns. Love the breakfast anytime
+Rating: 5
+Text: Waitresses was very friendly, curtious. Made sure our glasses were always filled. Meal was plentiful and cooked to perfection. I enjoyed going there and look forward to going again. Thank u.
+Rating: 5
+Text: I have been a regular customer at this restaurant since I was able to eat solid food. It is such an awesome restaurant, with a great tasting variety of foods. I recommend this place 100%
+Rating: 4
+Text: The food was good and so was the service

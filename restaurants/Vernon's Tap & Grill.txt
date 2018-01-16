@@ -1,0 +1,11 @@
+Vernon's Tap & Grill
+Rating: 4
+Text: I enjoyed my meal at Vernon's. Ambiance on the restaurant side was a little stark; the restaurant side was much better. The food was good and so was the service. I'll be back!
+Rating: 3
+Text: The food is pretty good, the service was good but the ambiance a little lacking. Prices not bad.
+Rating: 4
+Text: Its what you would expect from a tap and grill. The food is good and the staff are pleasant.
+Rating: 3
+Text: Adequate food and decent service.  There are better options nearby.
+Rating: 5
+Text: Food is awesome as is the service. Excellent assortment of beer. My favourite spot in the area. 

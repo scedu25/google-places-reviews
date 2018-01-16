@@ -1,0 +1,11 @@
+Manny's Restaurant
+Rating: 5
+Text: This is a great sports bar. Food is made with fresh ingredients. Everything is home made. Awesome!! Great beer and wine selection. Staff is friendly and professional.
+Rating: 2
+Text: No longer able to call ahead for carry out orders because the phone is kept off the hook.  This has happened to me more than once.  Very inconvenient.  Decent food but service now poor.
+Rating: 3
+Text: While it was a nice atmosphere, and the server was super nice, the food could have used a little more seasoning. The homemade tater tots were good, it's one of their signature dishes, it was light on the bacon and definitely needed salt and pepper. It was a decent place to go on a whim.
+Rating: 4
+Text: Good atmosphere. The homemade tots are amazing!!!!! Other food is about what you'd expect from pub food. Still good though. Prices are reasonable.
+Rating: 5
+Text: Best food around.  Best staff.  Highly recommend!

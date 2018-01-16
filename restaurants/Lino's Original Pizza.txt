@@ -1,0 +1,11 @@
+Lino's Original Pizza
+Rating: 4
+Text: The service isn't great, but the pizza is. They have a lot of unique options, and it's pretty cheap. Definitely the best place to eat in the mall.
+Rating: 5
+Text: Hands down the best pizza in town, thank you for taking pride in what you do!  You just can't get that with the big pizza chains
+Rating: 5
+Text: The owner always remembers me no matter how long it's been!
+Rating: 5
+Text: I love eating here at Lino' s original pizza. Lots of great Italian food. Yummy!
+Rating: 5
+Text: Wonderful selection of toppings you won't find most places in the Midwest.

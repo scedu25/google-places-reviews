@@ -1,0 +1,11 @@
+P C's Elkhorn Steakhouse
+Rating: 4
+Text: Great service. Prime Rib was delicious, also had the fried green beans. Interesting setup inside. A lot of John Wayne stuff. Would definitely recommend over Washington Street or Applebee's. 
+Rating: 3
+Text: We stopped here while traveling and were not disappointed with our meal, just not wowed. The staff was pleasant, the place quiet, the prices reasonable. We were fed and on our way in good time.
+Rating: 4
+Text: Best veggie omelette I have ever had! Great service! Highly recommend.
+Rating: 1
+Text: Waitress was the cook steak was overcooked and was very slow but was kinda relaxing being only ones there
+Rating: 5
+Text: great food love thir sauge and egg omlets greatttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt

@@ -1,0 +1,11 @@
+City View Motel
+Rating: 4
+Text: The proprietor is very friendly and helpful, as well as the staff. Good lodging for a decent price.
+Rating: 1
+Text: This motel has free wifi but this buisness dosent support human illness or old people so this buisness kinda sucks 
+Rating: 4
+Text: Great for long term stay...affordable and clean
+Rating: 3
+Text: Needs updated and to advertise more
+Rating: 1
+Text: A real dive.

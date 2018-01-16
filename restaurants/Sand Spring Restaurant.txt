@@ -1,0 +1,11 @@
+Sand Spring Restaurant
+Rating: 5
+Text: Great place to stay, great choice of different types of lodging, it's a nice place to bring a family, and is close to Bennett Springs State Park.
+Rating: 5
+Text: Great facility, owners, and always a fantastic float trip!
+Rating: 4
+Text: Good food.
+Rating: 3
+Text: Rustic, dated, but comfortable.
+Rating: 1
+Text: Will not go back

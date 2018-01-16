@@ -1,0 +1,11 @@
+Lakeview Campground
+Rating: 5
+Text: Wonderful campgrounds.  Excellent staff.  Clean facilities.  Nice and peaceful weekend.
+Rating: 4
+Text: Beautiful view of the lake, friendly staff, and very clean bathroom and showers.
+Rating: 5
+Text: Great views, very nice lake, great camping spots
+Rating: 5
+Text: Very nice cabins and the park staff is great!
+Rating: 5
+Text: 

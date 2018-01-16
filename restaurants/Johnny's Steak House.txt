@@ -1,0 +1,11 @@
+Johnny's Steak House
+Rating: 5
+Text: Tasty food at a reasonable price. Service is fast & friendly, too.
+Rating: 5
+Text: Johnny's is the best food around. Have never had a bad meal. The mushrooms and onion rings are the best I have had. Service is super. Give it a try and you will love it.
+Rating: 4
+Text: Great service, great onion rings, and great ribeye!!  Place could use some tlc, but food was awesome!!
+Rating: 5
+Text: Very courteous staff, nice atmosphere, and good food. 
+Rating: 4
+Text: Food and service was great!

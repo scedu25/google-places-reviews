@@ -1,0 +1,11 @@
+Ansley Diner
+Rating: 5
+Text: Great basic breakfast.  Nice friendly place.  Plenty of seating.  
+Rating: 5
+Text: Nice place, cozy and has great service!
+Rating: 5
+Text: Been there a few times...great daily specials...great home cooking.
+Rating: 5
+Text: Good place to eat!
+Rating: 5
+Text: Would stop by again when passing through.

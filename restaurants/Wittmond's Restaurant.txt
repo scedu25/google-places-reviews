@@ -1,0 +1,11 @@
+Wittmond's Restaurant
+Rating: 4
+Text: Home cooked comfort food in historical hotel setting.
+Rating: 5
+Text: A nice place to visit. Food is really good and very reasonable prices.
+Rating: 5
+Text: Great family style eating. More food than our family of 5 could eat. Total bill was $55.
+Rating: 5
+Text: Getting here is an adventure in itself- take either the Golden Eagle or Brussels Ferry and then drive through the beautiful countryside. The hotel has been around since 1949 and still serves up "country" food in a family-style setting. Even if you show up alone, you'll still get all the sides. Come hungry.
+Rating: 4
+Text: Family style dining...homemade sausage I think...good fried chicken, roast beef. Their chicken noodle soup was crap but the chicken and dumplings were good...so a draw there. Homemade peach preserves and a great pickle tray for starters...beets apples corn. Good time.

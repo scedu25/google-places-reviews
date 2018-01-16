@@ -1,0 +1,11 @@
+A and M Cafe
+Rating: 4
+Text: I went to this cafe on a Sunday afternoon and my experience was great. The French toast is one of their best dishes on the menu. Must try. The ambience is nice and the service is very good too. Even though it's a bit pricey, it is worth the money. I would love to go here again!
+Rating: 5
+Text: Always great food and great staff.  Awesome breakfast
+Rating: 5
+Text: Love the wait staff they have the best coffee and the best breakfast
+Rating: 4
+Text: Good "greasy spoon" diner food and a large menu. Homemade pies offered for dessert.
+Rating: 5
+Text: Been coming here for years and we love the pancakes, and you get nice big portions of food at a good price!!

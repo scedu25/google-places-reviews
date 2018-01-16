@@ -1,0 +1,12 @@
+Puffy's Pizza
+Rating: 5
+Text: Always enjoy eating at Puffy's!  The food is good and the service is good. The prices are reasonable!  
+Rating: 5
+Text: Awesome pizza.  I love the pizza buffet during lunch.
+Rating: 5
+Text: We tried the pickle cheese sticks with marinara sauce the first time. It was the best cheese sticks I've tried. The people are friendly and the food is delicious. They have buffet for the lunch rush, or order off the menu and sit back and relax and talk for a few minutes. The atmosphere is quiet and relaxing. 
+
+Rating: 5
+Text: This place has great pizza. The jalapeno popper pizza was amazing!!!
+Rating: 5
+Text: Very good quick service even with a large group having lunch. Pizza was really good. We had the buffet. Waitresses kept an eye on everything

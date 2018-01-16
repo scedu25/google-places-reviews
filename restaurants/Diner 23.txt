@@ -1,0 +1,11 @@
+Diner 23
+Rating: 5
+Text: Wonderful atmosphere and great food. The owners are wonderful people that directly interact with the customer!
+Rating: 5
+Text: Good food great service. Affordable prices.
+Rating: 4
+Text: Good food..a little overwhelmed service wise but they did the best they could
+Rating: 5
+Text: This place is so retro and the food was delicious, would recommend to anyone in the area.
+Rating: 5
+Text: We always stop in here when we are in Waverly.  Love that 23 Diner!

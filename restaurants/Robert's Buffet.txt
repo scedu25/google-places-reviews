@@ -1,0 +1,11 @@
+Robert's Buffet
+Rating: 4
+Text: The breakfast is the best around. Service is always great and friendly. Lunch was not as good but ok. 
+Rating: 5
+Text: Delcious, both lunch and dinner are great and the staff is awesome! Very well worth the money
+Rating: 4
+Text: The prices are unbelievable and the food is solid for a buffet. The crab is pretty good, and the desserts are too die for. 
+Rating: 3
+Text: Food is good for buffet (especially crab leg night), service is mediocre, prices are high. Best buffet in the Quad Cities!
+Rating: 1
+Text: I've never had a place ruin my appetite before. But at least the soda was okay.

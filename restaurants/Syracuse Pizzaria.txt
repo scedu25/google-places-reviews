@@ -1,0 +1,11 @@
+Syracuse Pizzaria
+Rating: 5
+Text: Best pizza around!   Clean restaurant.  Friendly service.   Cash only. 
+Rating: 5
+Text: I love their pizza!
+Rating: 5
+Text: BEST PIZZA EVER, In my opinion.
+Rating: 4
+Text: 
+Rating: 3
+Text: 

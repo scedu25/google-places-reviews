@@ -1,0 +1,11 @@
+White Spot
+Rating: 5
+Text: Great "old fashion" diner, good food all day, but great breakfast.
+Rating: 5
+Text: Excellent food and conversation
+Rating: 5
+Text: The food is great. They have the best fried chicken. Makes me feel at home eating here.  
+Rating: 5
+Text: Very friendly and food is very good. Especially like the biscuits and gravy--it's the best.
+Rating: 5
+Text: Great food and service

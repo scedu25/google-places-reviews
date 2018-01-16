@@ -1,0 +1,7 @@
+Bills & Diner
+Rating: 5
+Text: They have excellent breakfast sandwiches
+Rating: 5
+Text: Clean good service
+Rating: 5
+Text: Good home cooked meal

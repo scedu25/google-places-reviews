@@ -1,0 +1,11 @@
+Charro Mexican Restaurant
+Rating: 5
+Text: Great food,  fair prices,  and helpful people.   You feel like your at home
+Rating: 4
+Text: New location. Very well decorated. Food is good. Plentiful portions. The rice milk is interesting.
+Rating: 5
+Text: very clean and the food was hot and really good. Would definitely eat there again.
+Rating: 4
+Text: Good food.  Good service.  Pleasant waitress staff.  Did not feel rushed.
+Rating: 4
+Text: The food is very good. Semi-private rooms for groups. The owners are very active in the restaurant and proud of what they have made. The staff is attentive to your needs. I've been there many Times and have never been dissatisfied. 

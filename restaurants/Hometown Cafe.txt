@@ -1,0 +1,11 @@
+Hometown Cafe
+Rating: 4
+Text: Friendly atmosphere
+Rating: 4
+Text: Very yummy food
+Rating: 5
+Text: Great food!
+Rating: 5
+Text: Great little cafe
+Rating: 4
+Text: My job :)

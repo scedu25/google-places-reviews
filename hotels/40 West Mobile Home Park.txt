@@ -1,0 +1,9 @@
+40 West Mobile Home Park
+Rating: 5
+Text: Dumpy
+Rating: 4
+Text: Visiting my friend
+Rating: 3
+Text: Yep
+Rating: 5
+Text: 

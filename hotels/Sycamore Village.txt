@@ -1,0 +1,12 @@
+Sycamore Village
+Rating: 1
+Text: Poor management. Poor quality trailers.
+Rating: 1
+Text: Manager is rude and lazy
+Rating: 5
+Text: Friend
+
+Rating: 3
+Text: Trailer park
+Rating: 1
+Text: 

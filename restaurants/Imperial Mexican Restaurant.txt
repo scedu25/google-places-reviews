@@ -1,0 +1,12 @@
+Imperial Mexican Restaurant
+Rating: 5
+Text: Very nice staff good food and great prices. Margaritas very good
+Rating: 5
+Text: Excellent Mexican food and great service!
+Rating: 5
+Text: Their staff makes you feel like your at home it really clean and the food is amazing
+Rating: 5
+Text: Very good Mexican food and helpful and friendly staff.
+Rating: 4
+Text: Good lunch, fast
+

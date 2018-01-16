@@ -1,0 +1,11 @@
+Eric's Ice Cream Factory
+Rating: 5
+Text: The best ice cream in town!!
+Rating: 4
+Text: 3X the ice cream as the national chain for same amount of $$
+Rating: 5
+Text: 
+Rating: 5
+Text: 
+Rating: 4
+Text: 

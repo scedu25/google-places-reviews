@@ -1,0 +1,11 @@
+Donald's Serva-Teria
+Rating: 3
+Text: The best parts of the buffet were the roast beef and popcorn shrimp.
+Rating: 5
+Text: Enjoy the food and service from the friendly people here.
+Rating: 3
+Text: A local classic I'm told, but I didn't really think any of the food was particularly good... 
+Rating: 5
+Text: Sweet people have only had one bad experience with waitress but 99% love this place
+Rating: 3
+Text: Buffet style or order off menu. Fried chicken, salad, desserts, and and much more.

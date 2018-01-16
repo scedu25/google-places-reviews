@@ -1,0 +1,11 @@
+Taco Tico
+Rating: 5
+Text: The food is always good. Great customer service. Even when they are busy in the evening the food is always high quality. More sauce..
+Rating: 4
+Text: Good Mexican fast food. Cheesy wrap tacos and taco burgers are amazing. Good prices and specials
+Rating: 5
+Text: Slow service, but the staff was friendly and the food was good. 
+Rating: 4
+Text: Good food, but the service is REALLY slow.
+Rating: 5
+Text: Look I gotta problem. I love Taco Tico

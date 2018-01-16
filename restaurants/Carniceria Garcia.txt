@@ -1,0 +1,11 @@
+Carniceria Garcia
+Rating: 4
+Text: Great Mexican Food, a little slow to get waited on and served but other than that is very good.  Beef Soup is the best.
+Rating: 3
+Text: Place is ok people there are rude
+Rating: 5
+Text: The best authentic food 
+Rating: 5
+Text: Best Mexican food in garden city
+Rating: 4
+Text: There is a little restaurant inside that serves a very good lunch.

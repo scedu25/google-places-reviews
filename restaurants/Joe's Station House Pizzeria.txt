@@ -1,0 +1,11 @@
+Joe's Station House Pizzeria
+Rating: 4
+Text: I ordered a pizza, the staff took my money and delivered a mouthwatering delight.
+Rating: 2
+Text: Not my style of pizza. I had one slice and threw the rest away. The dough tastes like it came from a Pillsbury can, the cheese is 40% salt, 40% grease and 10% dairy. The sauce is on par with caseys pizza.
+Rating: 5
+Text: Best pizza ever . An the stuffed pizza is to die for!!
+Rating: 3
+Text: The stuffed pizza is pretty filling. Try the garlic butter wings, yummy! The employees were very polite.
+Rating: 5
+Text: Every single kind of pizza you can order from here is so much better than any other place. My favorite is the pan pizza with sausage and bacon. They now have a much larger list of food. They have beef rolls which are good. The wings are good but expensive. Can sometime take a while to get food when they are busy, but it is definitely worth the wait.

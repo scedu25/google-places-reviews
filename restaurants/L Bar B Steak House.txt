@@ -1,0 +1,11 @@
+L Bar B Steak House
+Rating: 5
+Text: Excellent food & service!  The best in this area. Always good!
+Rating: 4
+Text: Love meat and potatoes? This is your place. Simple yet delicious menu. Best steak in town! 
+Rating: 5
+Text: Amazing steak an great salad bar!!
+Rating: 5
+Text: Best place to eat in area.
+Rating: 5
+Text: The Best why go anywhere else.

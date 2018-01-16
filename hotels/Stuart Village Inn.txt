@@ -1,0 +1,12 @@
+Stuart Village Inn
+Rating: 4
+Text: Nice clean and comfortable room
+ go to the convenience store on the west end of town and ask for a room that's how your register
+Rating: 5
+Text: Quiet, clean room
+Rating: 5
+Text: Nice place to stay.
+Rating: 5
+Text: Rooms are super clean, prices are great, people are wonderful, what more can a guest ask for.
+Rating: 4
+Text: No fridge, don't think there's wifi. Could be worse

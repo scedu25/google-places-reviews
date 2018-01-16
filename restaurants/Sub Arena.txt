@@ -1,0 +1,11 @@
+Sub Arena
+Rating: 5
+Text: Great food, great service. I can't stop eating here! I love them!!!
+Rating: 5
+Text: Great sandwiches at a good price. Cherry soda is tastey.
+Rating: 5
+Text: Clean place good food ate a sub and beef stew was awesome. Friendly  workers.
+Rating: 5
+Text: Love to eat here when we come to town! Fresh, tasty food! Nice people.
+Rating: 5
+Text: Sub arena is a gem in Fort Madison IA. Great sandwiches, and I've had many every one delicious, those ladies make their food with love. Excellent service and very clean.

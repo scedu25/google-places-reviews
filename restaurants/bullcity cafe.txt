@@ -1,0 +1,11 @@
+bullcity cafe
+Rating: 4
+Text: Very good food, staff was friendly, and place was clean.
+Rating: 5
+Text: This is a must go to place full of Alton pride. Great home cooked foods and where you can visit with your friends and neighbors. 
+Rating: 5
+Text: Best place to shop for all your hunting needs!!
+Rating: 4
+Text: Good food, friendly 
+Rating: 5
+Text: The food was delicious and the staff was amazing! The waitress was so personable and genuine! Then the Baker came out and talked to us about her delightful cinnamon rolls! 

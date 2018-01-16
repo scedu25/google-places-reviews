@@ -1,0 +1,9 @@
+Hampsher Hotel
+Rating: 5
+Text: Really enjoyed the Farm to Table treats and great local hosts.
+Rating: 4
+Text: Always a impressive site for lunch. 
+Rating: 5
+Text: Friendly and clean
+Rating: 4
+Text: 

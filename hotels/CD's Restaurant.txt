@@ -1,0 +1,7 @@
+CD's Restaurant
+Rating: 5
+Text: Fantastic southern Iowa food! 
+Rating: 3
+Text: 
+Rating: 5
+Text: 

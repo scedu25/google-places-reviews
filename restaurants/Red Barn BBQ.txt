@@ -1,0 +1,11 @@
+Red Barn BBQ
+Rating: 4
+Text: Good atmosphere & good food
+Rating: 4
+Text: Great eats, good atmosphere. Friendly, hometown folks. Wholesome comfort food choices. Can't go wrong here.
+Rating: 5
+Text: Excellent service, great food and good atmosphere.
+Rating: 5
+Text: Great food and friendly fast service
+Rating: 4
+Text: Service was quick and attentive. The food was ready in under 10 minutes. Pulled Pork and mac n' cheese were fantastic

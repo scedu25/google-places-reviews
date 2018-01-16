@@ -1,0 +1,11 @@
+HoneyBaked Ham Company
+Rating: 4
+Text: Fast service and quality sandwiches, but pretty expensive costs.
+Rating: 1
+Text: This location tarnishes honeybaked hams reputation, horrible in comparison to other locations
+Rating: 5
+Text: Very good food.
+Rating: 5
+Text: Good food but pricey
+Rating: 4
+Text: Love this place for lunch or catering

@@ -1,0 +1,11 @@
+Tony's Restaurant
+Rating: 5
+Text: Tony's is sooo good!  Ribs - Amazing!  Pizza - Delicious!  Salad bar - Huge!  Everything we've tried has been awesome!  Our waitress was wonderful, clean bathrooms and plenty of comfy seating!  
+Rating: 3
+Text: Decent food nice quiet atmosphere. Prices are on the high side. 25.00 to 30.00 lunch for two.bring the prices down a little and I would visit more often.
+Rating: 4
+Text: friendly staff, quiet atmosphere, good food.
+Rating: 5
+Text: Awesome place for ribs! Never had a bad meal and service is just as awesome as the ribs!
+Rating: 4
+Text: Excellent salad bar. Nice variety and the chicken salad is delicious.  There is a division between two dining area with a traditional area and a racing themed sports area.  The combo of a sandwich and one trip to the bar is a good value.

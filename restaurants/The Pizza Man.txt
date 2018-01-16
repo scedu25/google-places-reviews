@@ -1,0 +1,11 @@
+The Pizza Man
+Rating: 5
+Text: Local eatery with a nice salad bar.. thin crust pizza cut in little squares.. I eat here often.
+Rating: 5
+Text: Its a good place to eat at and i haven't ate there in a long time 
+Rating: 5
+Text: Great local restaurant. Good pizza. Has a salad bar that may or may not be sanitary. :/ Otherwise great service and a friendly environment.
+Rating: 5
+Text: Great place to eat. Good salad bar
+Rating: 4
+Text: Great pizza and price.  Employees are friendly and keep the restaurant clean.

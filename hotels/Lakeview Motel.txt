@@ -1,0 +1,11 @@
+Lakeview Motel
+Rating: 4
+Text: Mostly quite.  It's an older place.  It's a cheap place to stay.  You get what you pay for.
+Rating: 2
+Text: Dirty bedding. Rundown. House keeper knocks on door every morning. Owners are nice though. Cheap rates
+Rating: 2
+Text: A cheap place to stay while working otherwise not
+Rating: 3
+Text: Basic hotel
+Rating: 3
+Text: Friendly

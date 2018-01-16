@@ -1,0 +1,11 @@
+Heritage Hills Golf Course
+Rating: 5
+Text: Wonderful Course and great staff. Small pro shop on site.
+Rating: 5
+Text: Well maintained course and inexpensive.
+Rating: 4
+Text: Good old golf course. 
+Rating: 3
+Text: Ok
+Rating: 4
+Text: 

@@ -1,0 +1,13 @@
+Mr. G's Restaurant
+Rating: 5
+Text: Great place for Breakfast or Lunch. Tasty variety of food with daily lunch specials. Good prices but no credit cards accepted. Cash or check only.
+Rating: 5
+Text: Excellent prices, excellent food and excellent people.
+Rating: 5
+Text: Awesome food and service!
+Rating: 5
+Text: Really good food and friendly service
+Rating: 4
+Text: Tiny dining room. Great food.
+5 tables, 15 chairs. Order at the counter.
+The hot roast beef sandwich with potatoes & green beans was yummy.

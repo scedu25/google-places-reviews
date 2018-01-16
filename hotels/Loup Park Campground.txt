@@ -1,0 +1,11 @@
+Loup Park Campground
+Rating: 5
+Text: Awesome but alot of mosquitoes 
+Rating: 3
+Text: No camping fee, free electric. But tons of mosquitos 
+Rating: 3
+Text: Some hookups for electricity. 
+Rating: 5
+Text: Quiet, clean, free electric and no camping fee, great walking trails. 
+Rating: 5
+Text: Well maintained 

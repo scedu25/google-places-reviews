@@ -1,0 +1,11 @@
+Crest-Vue Motel
+Rating: 5
+Text: A Very clean and comfortable motel. Manager is friendly and lives onsite. I would recommend staying here.
+Rating: 5
+Text: Very clean, reasonably priced and quiet place to get a good night's rest.
+Rating: 5
+Text: The room was nice and clean. The owner is friendly. Would stay again.
+Rating: 3
+Text: Very clean and reasonably priced. No frills but help very nice. 
+Rating: 5
+Text: BEST motel in Mankato!!!  I have been coming here for decades and I am still friends with the former owners.  Rooms were updated years ago and are quite nice and clean along with being cozy.

@@ -1,0 +1,11 @@
+City Cafe
+Rating: 5
+Text: The good is delicious and the owners are great people! 
+Rating: 5
+Text: Excellent meal! Excellent service!
+Rating: 4
+Text: Only cafe in town but friendly and good food.
+Rating: 5
+Text: 
+Rating: 5
+Text: 

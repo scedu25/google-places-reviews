@@ -1,0 +1,12 @@
+The Watering Hole at Oak Run
+Rating: 4
+Text: The pork chop sandwich was the best I've had.
+Rating: 5
+Text: Food is Fantastic! The service was great! The new facilities make this a destination worth visiting!
+Rating: 4
+Text: New restaurant. Great menu
+
+Rating: 2
+Text: Food was just ok, overpriced, and room is very noisy.
+Rating: 4
+Text: Love the people and food. Everyone always friendly, like family. Great beer selection.

@@ -1,0 +1,9 @@
+Cordle Motel
+Rating: 3
+Text: Delivered pizza to a trailer park resident.
+Rating: 5
+Text: Family
+Rating: 1
+Text: 
+Rating: 2
+Text: 

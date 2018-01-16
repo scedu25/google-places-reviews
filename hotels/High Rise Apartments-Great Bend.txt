@@ -1,0 +1,11 @@
+High Rise Apartments-Great Bend
+Rating: 4
+Text: It's a nice place to live
+Rating: 5
+Text: Love it here 
+Rating: 2
+Text: It's ok
+Rating: 2
+Text: Sucks 
+Rating: 3
+Text: i have a question ?

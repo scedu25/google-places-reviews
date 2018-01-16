@@ -1,0 +1,11 @@
+Continental Motel
+Rating: 5
+Text: This is a great place to stay . Its clean n the people are supper nice . We have been staying here for many years .
+Rating: 4
+Text: Employees are helpful. Rooms are clean. Beautiful yard
+Rating: 5
+Text: Great price. Very clean. I was running late coming back for a meeting and they let me slide on the late check out charge. I would definitely stay here again
+Rating: 3
+Text: Nice rooms but not a five star establishment.
+Rating: 3
+Text: Good for the price. No real amenities but it is a clean place to sleep and fairly quiet.

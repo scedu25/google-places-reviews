@@ -1,0 +1,12 @@
+First Watch
+Rating: 5
+Text: The most phenomenal omelet I have ever eaten. Delicious food and coffee. Great ambiance.
+Rating: 5
+Text: Great location! Bright windows and open seating.  Great for breakfast, lunch, brunch,  business meetings or a nice meal alone.
+Rating: 4
+Text: The pumpkin pancakes were large and delicious. Would highly recommend going to get them!
+Rating: 5
+Text: Excellent service and great food. Clean and safe and would highly recommend a visit.
+Rating: 5
+Text: Nice place to get breakfast or brunch.
+Food was excellent every time I visited.

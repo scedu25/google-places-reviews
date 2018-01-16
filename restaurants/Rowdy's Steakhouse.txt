@@ -1,0 +1,11 @@
+Rowdy's Steakhouse
+Rating: 5
+Text: Efficiently took orders and brought hot good to 19 of us! Great job!!
+Rating: 4
+Text: Good food and good service,I'd eat there again
+Rating: 5
+Text: You know the good and service is great when their is a line at the door. Try the Russian Salad Dressing!  Awesome!!
+Rating: 5
+Text: BEST burgers, and I mean BEST. this place is amazing. I would go out of my way to eat here again.
+Rating: 4
+Text: The service was nice the steaks were cooked to our liking overall a nice environment to take family and enjoy night out

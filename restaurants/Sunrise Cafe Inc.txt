@@ -1,0 +1,11 @@
+Sunrise Cafe Inc
+Rating: 4
+Text: Newly remodeled! Very nice looking inside. Good family style restaurant with great breakfasts.
+Rating: 5
+Text: On a road trip I stopped in. It was very busy but they had the orders made fast. Very good food.
+Rating: 5
+Text: Great food, amazing staff, very friendly. Great low prices. Best place ever.
+Rating: 5
+Text: Best scrambled eggs and bacon ever! And the coffee is good too.
+Rating: 5
+Text: Great breakfast. Fast service

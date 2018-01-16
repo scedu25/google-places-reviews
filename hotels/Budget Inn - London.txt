@@ -1,0 +1,9 @@
+Budget Inn - London
+Rating: 5
+Text: The rooms were clean, it was quiet and peaceful, the employees were helpful,honest, and friendly.
+Rating: 2
+Text: Cheap but ok if ur low on money
+Rating: 3
+Text: Ok
+Rating: 4
+Text: Cozy

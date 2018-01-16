@@ -1,0 +1,11 @@
+Tim Hortons
+Rating: 4
+Text: Doughnuts are great. Friendly service. Prices are a bit high for me but then so are all the other coffee shops.
+Rating: 3
+Text: Atmosphere is good, but make sure you check your order.
+Rating: 5
+Text: Best coffee.  Service is excellent! 
+Rating: 4
+Text: Great place to get a cup of coffee.
+Rating: 5
+Text: The steak wrap is amazing!n

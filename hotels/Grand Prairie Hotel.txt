@@ -1,0 +1,11 @@
+Grand Prairie Hotel
+Rating: 3
+Text: Staff is very friendly and the recent remodel has helped the fact that the hotel is old and rundown. The fact that they've got a bar on-site is a definite plus.
+Rating: 1
+Text: This was so horrible I can't even begin to explain how nasty this place is 
+Rating: 4
+Text: Cheap drinks make me happy
+Rating: 3
+Text: Utilitarian.
+Rating: 3
+Text: Needs updating

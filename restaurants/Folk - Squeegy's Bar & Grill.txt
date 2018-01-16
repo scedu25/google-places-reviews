@@ -1,0 +1,11 @@
+Folk - Squeegy's Bar & Grill
+Rating: 5
+Text: Awesome local bar!
+Rating: 3
+Text: Ok but not good
+Rating: 1
+Text: Poor customer service. My husband sat There for 10 minutes with an empty beer. There were only 2 other tables besides us couldn't keep up or didn't want to. Cook was beyond rude the whole time we were there. Won't be back! 
+Rating: 5
+Text: Great food!
+Rating: 5
+Text: Good fries

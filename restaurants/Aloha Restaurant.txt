@@ -1,0 +1,12 @@
+Aloha Restaurant
+Rating: 5
+Text: I'd recommend the Mongolian Delight.
+And our server Henry was fantastic.
+Rating: 5
+Text: Food was excellent as always! Wonderful service. A must stop whenever I'm in town.
+Rating: 5
+Text: Best food ever I love this place.  The portions are huge and the food is on point!
+Rating: 4
+Text: Sunday Buffett has killer flavorful with a great selection.
+Rating: 4
+Text: A little less soy sauce. My American tongue is just not set up it. Good food though.

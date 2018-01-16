@@ -1,0 +1,11 @@
+Panda Restaurant
+Rating: 5
+Text: Excellent food. Definitely my favorite Chinese food restaurant. Staff has always been friendly. For twenty years that I have been coming here I never been discontent.
+Rating: 5
+Text: It is a good place to eat at their food is very good
+Rating: 3
+Text: Food is okay. At least I don't get sick when eating here. Not the same when eating at the buffet down the street.
+Rating: 5
+Text: The teriyaki chicken is awesome. It's only $5.95. This the the best Chinese restaurant in the entire universe
+Rating: 1
+Text: The shrimp with lobster sauce was terrible  was real watery. I used to get good food here evidently it's going down hill

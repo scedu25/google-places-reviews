@@ -1,0 +1,12 @@
+Cook Out
+Rating: 5
+Text: Best place in Morehead to eat...excellent food, service, and the price is unbeatable.
+Rating: 3
+Text: It's good if you don't mind waiting 20 minutes for a milkshake
+
+Rating: 5
+Text: Good to go when you need something fast to eat. Great prices.
+Rating: 4
+Text: Good food, good service. Burnt my burger once but not a problem anytime here.
+Rating: 4
+Text: I've only ate their burgers & fries so I can't b sure that their food is worth 5?. Their burgers are much better then any fast food type restaurant for example McDonald's or Wendy's because they actually taste like real thick hamburger. The main reason I go there is I absolutely love their Cajun seasoning on top of their fries!

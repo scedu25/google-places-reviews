@@ -1,0 +1,11 @@
+Roadhouse Bar & Grill
+Rating: 4
+Text: Great place to stop and have a drink or four. Nice people and environment. Ragbri love to stop here.
+Rating: 5
+Text: Love love it! Marne here we come!
+Rating: 5
+Text: Good time and great tenderloin sandwich.
+Rating: 5
+Text: godt miljø, godt sted at stoppe.
+Rating: 4
+Text: 

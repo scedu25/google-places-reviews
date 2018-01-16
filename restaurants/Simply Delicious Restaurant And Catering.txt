@@ -1,0 +1,11 @@
+Simply Delicious Restaurant And Catering
+Rating: 5
+Text: Best salads in town! Never disappoints!
+Rating: 4
+Text: Great soups, pies and home cooked meals.
+Rating: 5
+Text: Excellent, home cooking. Beautifully fresh salads.
+Rating: 5
+Text: I love their homemade food choices.
+Rating: 3
+Text: 

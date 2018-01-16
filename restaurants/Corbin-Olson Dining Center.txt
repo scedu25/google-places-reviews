@@ -1,0 +1,11 @@
+Corbin-Olson Dining Center
+Rating: 5
+Text: So many choices...good choices
+Rating: 4
+Text: Standard college food. Good choices.
+Rating: 2
+Text: Local just for students
+Rating: 5
+Text: 
+Rating: 4
+Text: 

@@ -1,0 +1,11 @@
+Meramec Motel
+Rating: 2
+Text: not very secure, hinges on outside of doors
+Rating: 4
+Text: Nice place. 
+Rating: 3
+Text: 
+Rating: 5
+Text: 
+Rating: 5
+Text: 

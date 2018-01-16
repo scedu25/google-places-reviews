@@ -1,0 +1,12 @@
+China Chinese Restaurant
+Rating: 5
+Text: Excellent service,clean environment,friendly staff and every meal I have tried has been delicious.  Even the food on the buffet is fresh. Great place to have lunch or supper.
+Rating: 5
+Text: Small lunchtime buffet, but excellent food, and friendly staff. Will definitely stop here again!
+Rating: 4
+Text: Great food, and carry out
+Rating: 1
+Text: Be sure to bring your salad fork... Meat to vegitable ratio is about 70:1
+Rating: 5
+Text: Amazing white rice and sesame seed chicken 
+

@@ -1,0 +1,9 @@
+Hill Top Inn
+Rating: 1
+Text: Hilltop restaurant is home to the worst dining experience in the continental United States. If you are patient enough to finally receive a menu and a drink, you will be rewarded with an incredibly long wait for poor and mediocre microwaved entrees. The only thing slower than the service at Hilltop is your appetite after you see what they call food. Words cannot describe the disappointment you will find here. You've been warned.
+Rating: 5
+Text: Great walleye!!
+Rating: 3
+Text: Not a big variety of food.
+Rating: 5
+Text: 

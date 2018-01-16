@@ -1,0 +1,12 @@
+Bellacino's Pizza & Grinders
+Rating: 3
+Text: I love this place. The food is amazing. 
+However, I recently placed a delivery order and they got it about 75% wrong.
+Rating: 5
+Text: Great food and great service whether dining in or opting for delivery.
+Rating: 5
+Text: Visiting from out of town. Great place for pizza or a sandwich.
+Rating: 5
+Text: Great family restaurant with a kind staff. Their sandwiches are the best in town!
+Rating: 1
+Text: Got a sandwich and it was made wrong driver went out to his car and picked off the lettuce and brought it back to me that is so gross ?

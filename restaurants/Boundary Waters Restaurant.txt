@@ -1,0 +1,11 @@
+Boundary Waters Restaurant
+Rating: 5
+Text: Super friendly service, just what you want from a local hometown restaurant. There food is fresh and made with care. I would go back if I return to Demotte and highly recommend  this eatery to others.
+Rating: 4
+Text: Food was good, service needs more work, but it was a slow night.
+Rating: 3
+Text: The servers are very attentive. The food is good, but not great. The hours are great for small town. 
+Rating: 5
+Text: Every dish I have tried has been DELICIOUS. Be sure to come on chicken tortilla soup day. Oh my goodness, it's awesome. And the lemon pepper salmon?...A -MAZE- ING. 
+Rating: 4
+Text: Good food, good atmosphere, good service

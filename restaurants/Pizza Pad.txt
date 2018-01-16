@@ -1,0 +1,11 @@
+Pizza Pad
+Rating: 5
+Text: Good food, Good location. It's a good place for get togethers. 10 out of 10 would eat here again
+Rating: 5
+Text: We came through last night and were very skeptical about this. Mom and pop shops are hit or miss in Colorado. The food was amazing. We will definitely be dining there again
+Rating: 5
+Text: Great tasting pizza
+Rating: 5
+Text: We drive from Imperial to Holyoake,45 min one way because they are the best pizza in our area
+Rating: 4
+Text: Best pizza you can get in Holyoke, if passing by town and need to get pizza this is place to stop by.

@@ -1,0 +1,11 @@
+Great Day Cafe
+Rating: 5
+Text: Fantastic.  Exceptionally clean and great food.  Very warm and friendly atmosphere.
+Rating: 5
+Text: Clean environment and reasonable prices.
+Rating: 5
+Text: Great food,really frienly people, clean and down home feeling
+Rating: 5
+Text: Great service and tasty food.
+Rating: 5
+Text: Friendly service,  great food,  great prices

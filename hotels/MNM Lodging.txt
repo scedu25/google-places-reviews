@@ -1,0 +1,5 @@
+MNM Lodging
+Rating: 4
+Text: Great place to stay
+Rating: 3
+Text: 

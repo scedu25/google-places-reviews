@@ -1,0 +1,11 @@
+Neighbors Cafe
+Rating: 5
+Text: Neighbors is a staple of McPherson.  If you want to go to a place where the locals hang out and bond, Neighbors is the place to go.  I love their breakfast, and have spent many a Saturday morning eating their biscuits and gravy and drinking coffee with friends.  The atmosphere is welcoming and comfortable.  If you want to experience the real McPherson, go to Neighbors.
+Rating: 4
+Text: Prices have always seemed high, but maybe that's what comes with running a small business. And the friendly environment is worth a premium. Great breakfast.
+Rating: 5
+Text: Neighbors is a must. Very friendly staff. The portions are plenty big and prices are reasonable. The food is always wonderful!
+Rating: 5
+Text: Perfect friendly dinner. Fave spot of my local relatives. It's the kind of place you wish you knew about when driving through small towns needing to find a bite to eat.
+Rating: 5
+Text: Always a must visit when I'm in McPherson. I recommend the biscuits and gravy full order with a half order of hash browns. Get a cinnamon roll only if you're really hungry or want leftovers because they are the size of a plate!

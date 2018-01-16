@@ -1,0 +1,11 @@
+Fat Willys
+Rating: 4
+Text: Good Margaritas, very friendly and great crew, great prices for good food
+Rating: 5
+Text: Excellent food, excellent prices and even better service!
+Rating: 4
+Text: Good food at a good price
+Rating: 4
+Text: The food was delicious as always.
+Rating: 5
+Text: Great food and staff!

@@ -1,0 +1,11 @@
+Grande Mere Inn
+Rating: 5
+Text: Outstanding! Great food. Great location. Just awesome. I really enjoyed the ribs they were very very good.
+Rating: 5
+Text: Exceptional place. Great views of Lake Michigan. Food was great and the employees are outstanding. Worth the time to stop in. 
+Rating: 4
+Text: Wonderful hospitality with expected food. Super friendly formality makes you feel like a king.
+Rating: 5
+Text: Great view of sunset but it's the food and service that brings you back
+Rating: 5
+Text: Great classic steak, chops, seafood. Excellent service

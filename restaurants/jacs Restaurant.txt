@@ -1,0 +1,11 @@
+jacs Restaurant
+Rating: 5
+Text: Nice little place on the main Street! Excellent food and very friendly staff! Will eat there again if I get to that area! ?
+Rating: 4
+Text: Really nice people and good food.  Clean and comfortable environment.
+Rating: 5
+Text: They were friendly, quick, good prices, attentive, and the food was excellent. The enchiladas I ordered were some of the best I've had. I sampled my husband's food and it was excellent as well. Would eat there again and again even though we don't live in town.
+Rating: 5
+Text: Fast friendly service.  Hot and fresh food.  Here eating lunch.
+Rating: 4
+Text: Good food. Good service. Fun building. Great people.

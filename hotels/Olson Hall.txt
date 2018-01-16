@@ -1,0 +1,7 @@
+Olson Hall
+Rating: 3
+Text: Nice
+Rating: 2
+Text: Local just for students.
+Rating: 4
+Text: 

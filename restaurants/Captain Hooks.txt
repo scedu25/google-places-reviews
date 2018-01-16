@@ -1,0 +1,9 @@
+Captain Hooks
+Rating: 5
+Text: I have eaten here for years.  Great local restaurant serving just plain good comfort food.  Nothing fancy just a great place to eat.
+Rating: 4
+Text: A good burger joint
+Rating: 5
+Text: Best food around
+Rating: 5
+Text: Great little diner right off hwy 36. 

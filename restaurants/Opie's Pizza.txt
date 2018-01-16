@@ -1,0 +1,11 @@
+Opie's Pizza
+Rating: 5
+Text: Good food nice people
+Rating: 5
+Text: Great food, great service.
+Rating: 5
+Text: Great place for pizza and sandwiches. Spin the wheel on Wednesdays and get a chance to get your meal for free.
+Rating: 3
+Text: Nice atmoshere
+Rating: 5
+Text: Always get good food and good service.

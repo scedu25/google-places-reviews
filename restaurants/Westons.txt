@@ -1,0 +1,11 @@
+Westons
+Rating: 5
+Text: Excellent service, decor and relaxed atmosphere. Great food. Highly recommend!
+Rating: 5
+Text: Very good.  Only wish they had margarita's.
+Rating: 5
+Text: Wonderful place with delicious food and welcoming people.
+Rating: 2
+Text: Mediocre 
+Rating: 3
+Text: 

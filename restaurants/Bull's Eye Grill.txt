@@ -1,0 +1,11 @@
+Bull's Eye Grill
+Rating: 5
+Text: Delicious burgers and milkshakes!
+Rating: 5
+Text: Great. The food was good and the service spectacular. 
+Rating: 5
+Text: Good hometown food
+Rating: 5
+Text: The service is so fast and very friendly.  Parking can be a little tight at busy hours, but the food is good and fresh, and they make an awesome burger!
+Rating: 4
+Text: Unique cultures converge!

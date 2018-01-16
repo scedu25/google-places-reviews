@@ -1,0 +1,11 @@
+Plum Creek Restaurant
+Rating: 4
+Text: Plum Creek is my favorite place to eat in Beloit for a sit-down restaurant. Great steaks and a pretty diverse menu. Everything on the menu is delicious. My only complaint is that they rush to give you the bill and once they do, you become invisible to the staff.
+Rating: 3
+Text: Nothing special. Friendly service basic diner food.
+Rating: 5
+Text: Great place. Visit almost weekly! Curly fries are awesome but eat them fresh. Salads are huge.
+Rating: 5
+Text: Very nice and polite service. I visit here at least once everytime.
+Rating: 5
+Text: Great food! Awesome service! Savanna's the best!

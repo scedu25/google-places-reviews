@@ -1,0 +1,11 @@
+Daphne's Family Restaurant
+Rating: 5
+Text: I love this place! The food is always consistently GOOD!! Servers are always friendly and efficient.
+Rating: 1
+Text: They actually close at 8. Water gravy, cold mashed potatoes offer soup or salad but you don’t get it. No second chance to make a first impression!
+Rating: 5
+Text: Love 2 eat here. Great for the family 2 go in and just relax. Friendly service in there and Great Food.
+Rating: 3
+Text: The food was good, but the staff wasn't the friendliest. Maybe it's just an Illinois thing.
+Rating: 5
+Text: I've never had anything that wasn't yummy. Service is great, never have to wait for a refill or getting someones attention. Great prices too

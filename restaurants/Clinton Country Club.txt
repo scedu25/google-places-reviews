@@ -1,0 +1,11 @@
+Clinton Country Club
+Rating: 5
+Text: Great place to golf course in great shape.
+Rating: 3
+Text: Course was not very difficult and was not well maintained. 
+Rating: 5
+Text: Nice course
+Rating: 4
+Text: Tough golf course 
+Rating: 5
+Text: 

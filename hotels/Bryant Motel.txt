@@ -1,0 +1,9 @@
+Bryant Motel
+Rating: 2
+Text: Place needs cleaned up a little bit from the storm but all in all it's ok
+Rating: 1
+Text: Needs alot of work
+Rating: 3
+Text: Needs upgrades
+Rating: 5
+Text: 

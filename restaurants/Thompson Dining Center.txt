@@ -1,0 +1,11 @@
+Thompson Dining Center
+Rating: 2
+Text: Good food... although grossly overpriced.  Have fun living off chicken and rice every single time you go there because getting anything else there can be fairly expensive.
+Rating: 4
+Text: This building was recently renovated in 2013. It has a dining hall and a front desk. There is a lounge on the second floor with games, study rooms, tvs and couches.
+Rating: 5
+Text: Wonderful place to be
+Rating: 3
+Text: They offer varieties of meals 
+Rating: 3
+Text: Average food.  They can do better

@@ -1,0 +1,11 @@
+Heisei Japanese Restaurant
+Rating: 5
+Text: Awesome place. Sushi is amazing, tempura is awesome. The servers are SUPER friendly and the sushi chef is the best. Highly recommend this excellent place.
+Rating: 4
+Text: Great place, nice ambience, authentic Japanese food. Quiet ( for the most part), family friendly. Alcohol available.
+Rating: 4
+Text: Great food. nice atmosphere. They have special discounts daily so check the menu on the doors before going in!
+Rating: 5
+Text: Nice, casual place with great food and service. Will definitely be a return customer.
+Rating: 1
+Text: Service sucked, food sucked. Waiter didn't know the menu, for being an Asian place they offered a side of French fries.. Food was flavorless and really expensive

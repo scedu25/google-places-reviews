@@ -1,0 +1,11 @@
+Riverside Park Campground
+Rating: 5
+Text: Excellent park and campground.  Clean restrooms.  Abundant shade.  Pool, ballfields, and playgrounds.  Nice walkways.
+Rating: 5
+Text: Great out of the way campground.
+Rating: 5
+Text: I love my home park!
+Rating: 4
+Text: Convenient access to the park and facilities
+Rating: 5
+Text: Very nice facility

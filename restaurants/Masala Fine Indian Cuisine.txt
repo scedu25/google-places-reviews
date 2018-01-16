@@ -1,0 +1,11 @@
+Masala Fine Indian Cuisine
+Rating: 4
+Text: Fantastic, delicious, superb dinning and the ambiance is warm and inviting. Customer service was friendly and helpful if you don't know what you like. I recommend every one try this restaurant.
+Rating: 3
+Text: This restaurant is somewhat dicey in the quality of food and service you may receive. In the past, I have had great experiences at Masala but this past visit there was a dead bug in my meal from the buffet. They gave us half off our meal. The experience in general is worth the cost!
+Rating: 5
+Text: Love this place. Great service, incredible food, decent atmosphere. This restaurant overcomes it's unassuming appearance and geographical position to become one of my all time Indian favourites.
+Rating: 5
+Text: Very nice place for Indian cuisine. The food was very tasty and good.
+Rating: 5
+Text: Consistently good food with attentive service!

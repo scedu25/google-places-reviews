@@ -1,0 +1,11 @@
+Gray's Restaurant
+Rating: 3
+Text: Nice people and good food
+Rating: 5
+Text: Was recommended this place by several locals. Best breakfast spot in town!
+Rating: 5
+Text: This is the best food after a night out with your friends! Good food and hometown friendly service. Prices are very decent!
+Rating: 5
+Text: Good old fashioned truck stop and the food is amazing!
+Rating: 5
+Text: food is amazing and prices are just as good

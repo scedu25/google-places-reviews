@@ -1,0 +1,11 @@
+Snow Ball
+Rating: 5
+Text: BEST coffee in town. And ice cream is amazing.
+Rating: 4
+Text: Good drinks, great service, but a little pricey. No more expensive than a Starbucks, though.
+Rating: 5
+Text: Best ice cream in Merica. Love it. Have to stop whenever the family is in the area.
+Rating: 5
+Text: Very kind and caring people.  Wonderful food and service.
+Rating: 5
+Text: The ice cream is so authentic in flavor, style, and originality. There's unlimited mix and matches it'll take me a year PLUS to taste everything they have to offer!

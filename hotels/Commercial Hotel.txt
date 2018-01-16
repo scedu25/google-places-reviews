@@ -1,0 +1,4 @@
+Commercial Hotel
+Rating: 5
+Text: Nice hotel
+

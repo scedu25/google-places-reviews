@@ -1,0 +1,11 @@
+Arni's Restaurant
+Rating: 1
+Text: This place is all around horrible. I ordered a chicken bacon wrap. Aweful!! Water from fountain is nasty, dirty seats, rude staff and food sucked!!
+Rating: 4
+Text: Service wasnt all that friendly but the food was phenomenal. Definitely recommend the garlic bread with cheese
+Rating: 5
+Text: I could eat here everyday. The menu is great. Customer service excellant staff is friendly and helpful.
+Rating: 4
+Text: Good food & good service!
+Rating: 5
+Text: had the Italian beef sandwich, was amazing, large potion and great flavor. very helpful and friendly staff

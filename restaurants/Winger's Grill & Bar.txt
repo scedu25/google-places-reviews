@@ -1,0 +1,11 @@
+Winger's Grill & Bar
+Rating: 5
+Text: Great food..best wings in this area.. Great service.. all the food is good
+Rating: 5
+Text: Delicious!! We love coming here. The pulled pork is the best we've ever had!
+Rating: 4
+Text: Wings are enormous and delicious; very good service
+Rating: 4
+Text: It was a really great experience. Food was delicious.
+Rating: 5
+Text: Great place to relax.  Fantastic service!

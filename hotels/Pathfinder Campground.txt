@@ -1,0 +1,11 @@
+Pathfinder Campground
+Rating: 4
+Text: Quieter than the Victory Lake Campground. A lot more trees offering more shade for campers.
+Rating: 5
+Text: We love fall camping at Fremont SRA!
+Rating: 5
+Text: Great place to spend family time
+Rating: 5
+Text: Great camp site
+Rating: 5
+Text: I love camping here!

@@ -1,0 +1,11 @@
+La Cocina Real
+Rating: 5
+Text: Wow!  The buffet was amazing!  Very tasty Mexican food, good service, and friendly people. Go there!
+Rating: 5
+Text: Very authentic! Very friendly and welcoming.
+Rating: 5
+Text: The food was delicious and the service was better. 5 out of 5
+Rating: 5
+Text: They have the best mexican food
+Rating: 5
+Text: Great food and super friendly staff.

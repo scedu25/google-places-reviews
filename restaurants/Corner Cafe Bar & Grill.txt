@@ -1,0 +1,12 @@
+Corner Cafe Bar & Grill
+Rating: 5
+Text: Good food good prices
+
+Rating: 5
+Text: Good special on nights
+Rating: 5
+Text: Best place to eat in Cambridge  
+Rating: 5
+Text: Goodfoodandcoffee
+Rating: 5
+Text: Love it

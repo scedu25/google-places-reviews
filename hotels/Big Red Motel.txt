@@ -1,0 +1,5 @@
+Big Red Motel
+Rating: 5
+Text: Ok
+Rating: 2
+Text: 

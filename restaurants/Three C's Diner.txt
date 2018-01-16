@@ -1,0 +1,11 @@
+Three C's Diner
+Rating: 5
+Text: Fantastic food, friendly staff! Our waitress was great! Makes you want to go take a nice long nap!
+Rating: 5
+Text: Delicious food, great prices, and wonderful service. I've never had a bad meal here! Their tenderloin and onion rings are top-notch.
+Rating: 5
+Text: Super friendly staff, great food, good prices, and very clean. We love this place!
+Rating: 5
+Text: Great food, good prices, friendly staff. They make good stakes.
+Rating: 5
+Text: I live in Washington state and can't get tenderloins there. The Tenderloins here are made from scratch and one of the best I've had....and I eat them whenever I get back to the Midwest.  Well worth the trip and a great price.

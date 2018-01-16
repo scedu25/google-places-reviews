@@ -1,0 +1,11 @@
+Village Motel
+Rating: 5
+Text: This is a smaller, older "American owned and operated" motel but very well maintained at a reasonable rate. The rooms are clean and the staff is friendly, I will stay here again!
+Rating: 1
+Text: They don't answer
+Rating: 5
+Text: All I did was deliver there
+Rating: 5
+Text: 
+Rating: 5
+Text: 

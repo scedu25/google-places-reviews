@@ -1,0 +1,11 @@
+Arby's
+Rating: 5
+Text: All ways great food and fresh.  With friendly faces. ?
+Rating: 2
+Text: Food is typical Arby's but takes forever at certain times of day. Frequent turnover in staff means they are not trained and no customer service skills
+Rating: 3
+Text: Wheres the sausage? No sausage in the biscuits, sausage gravy.
+Rating: 4
+Text: Good Arby's in a small town.
+Rating: 5
+Text: This is wonderful place to eat 

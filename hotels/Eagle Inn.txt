@@ -1,0 +1,13 @@
+Eagle Inn
+Rating: 4
+Text: You get what you pay for. Laid back management. Good sized room.
+Rating: 5
+Text: Perfect little family owned motel in a village that shows character and class from finer times of the past. The owner is an extremely nice guy who is willing to go out of his way to make sure that you enjoy your stay. The motel is built in a turn of the century bank and connected furniture store, complete with the second original safe, as the first original safe was stolen during the great depression. The furniture store portion of the complex is still home to a fully working mechanical elevator lift.
+
+You will not be disappointed with a stay at the Eagle Inn.
+Rating: 3
+Text: .....good
+Rating: 4
+Text: It was nice
+Rating: 3
+Text: Used to be a bank

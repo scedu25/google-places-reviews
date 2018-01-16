@@ -1,0 +1,11 @@
+Mozzi's Pizza
+Rating: 4
+Text: It's good. Not many specials unless you happen to be on the name game
+Rating: 5
+Text: I can't speak for the other food, but we love their Deep Dish Sicilian pizza - just like we used to get at Noble Romans. Watch local newspaper for coupons.
+Rating: 5
+Text: This place is awesome! Great pizza!
+Rating: 4
+Text: Yummm! But a little on the pricey side for pizza
+Rating: 5
+Text: Great Pizza in beautiful downtown Fortville. 

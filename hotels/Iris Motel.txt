@@ -1,0 +1,11 @@
+Iris Motel
+Rating: 4
+Text: This place has been remodeled its excellent
+Rating: 5
+Text: Love it remodeled rooms . great night stay
+Rating: 1
+Text: Closed for "two week renovations" for months...
+Rating: 1
+Text: Building  has been condemned 
+Rating: 1
+Text: It's a dump

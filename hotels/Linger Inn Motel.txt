@@ -1,0 +1,11 @@
+Linger Inn Motel
+Rating: 5
+Text: Great place for a visit and stay a night
+Rating: 3
+Text: Weekly rent
+Rating: 4
+Text: 
+Rating: 3
+Text: 
+Rating: 1
+Text: 

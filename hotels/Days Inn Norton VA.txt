@@ -1,0 +1,11 @@
+Days Inn Norton VA
+Rating: 4
+Text: Very nice room, love the massage sprayer. Best rooms around Norton.
+Rating: 5
+Text: Was helping a friend move his luggage in, nice place.
+Rating: 4
+Text: Well, I delivered some pizza to the hotel, the hotel was nice inside, but the third floor smelled like smoke.
+Rating: 5
+Text: The bed was comfortable. The staff was friendly.
+Rating: 5
+Text: Service and accommodations were great parking was great the stay was enjoyable will stay again.

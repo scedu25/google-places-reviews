@@ -1,0 +1,12 @@
+Geneva Inn
+Rating: 1
+Text: They changed the price without notice.  I reserved a room for $70 and when I arrived it was $100.    The smell of disinfectant was overwhelming.  The bathroom fixtures were all corroded.  Look elsewhere.
+Rating: 4
+Text: It was a bit expensive for this particular motel. But overall it was decent.
+Rating: 1
+Text: The staff was courteous, but when I got into my room it was as cold as it was outside because someone left the window open in the bathroom and the heater was turned off. when I turned on the heater it was barely able to take the chill out of the room. I froze all night long in that room.
+Rating: 3
+Text: It's not fancy, but it was fairly clean. Decent place to stay for one of this vintage in this price range. 
+Rating: 1
+Text: I wouldn't stay there again!
+

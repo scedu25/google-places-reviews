@@ -1,0 +1,7 @@
+Oasis Restaurant
+Rating: 4
+Text: Great steaks
+Rating: 2
+Text: 
+Rating: 5
+Text: 

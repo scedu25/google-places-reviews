@@ -1,0 +1,11 @@
+Bucks Bar & Grill
+Rating: 5
+Text: Bucks is a pivotal force in the community, and a place where people of the community can get together. The bacon on the burger was generous, and service was committed to the customer experience. Cheers!
+Rating: 4
+Text: Decent place to eat and have a drink. Decorations are pretty cool
+Rating: 4
+Text: Nice decor. Friendly staff. Good burger with lots of options. 
+Rating: 5
+Text: Wonderful food!! Thanks. Nice to "come home."
+Rating: 5
+Text: Good food,  drinks, service and atmosphere. 

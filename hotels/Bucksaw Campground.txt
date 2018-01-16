@@ -1,0 +1,11 @@
+Bucksaw Campground
+Rating: 4
+Text: this is a clean camping spot. they have a shower house and they are kept very clean
+Rating: 5
+Text: Great place. 
+Rating: 4
+Text: 
+Rating: 5
+Text: 
+Rating: 5
+Text: 

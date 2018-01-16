@@ -1,0 +1,11 @@
+Jackson's Family Restaurant
+Rating: 4
+Text: nice family owned restaurant. Food is good and decently priced
+Rating: 4
+Text: Good food and nice waitresses, clean place to eat.
+Rating: 5
+Text: Good morning!I'm from Chicago and I was reading bad comments about this place and I want to share my experience, place is really clean service is really friendly I think the people has to be honest do write a comment
+Rating: 4
+Text: Steak was a little chewy but i did ask for medium rare and the service is great
+Rating: 1
+Text: No clean tables and waited 30 minutes just to be served. Not sure how they stay in business. Horrible service.  Left and went to McDonald's instead.

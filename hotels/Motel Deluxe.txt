@@ -1,0 +1,11 @@
+Motel Deluxe
+Rating: 5
+Text: ...A Quaint Little Motel,Very Very Clean...
+Rating: 5
+Text: It's not a fancy 4 star resort but it is clean and affordable.
+Rating: 3
+Text: Dont want to live here long term but of only staying here a couple of nights its very easy on the wallet
+Rating: 5
+Text: 
+Rating: 1
+Text: 

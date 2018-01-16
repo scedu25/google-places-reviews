@@ -1,0 +1,11 @@
+Shetler's Cafe
+Rating: 2
+Text: Too pricey for what they offer. Salad bar is limited on content and how often you serve yourself. Has a buffet but its limited, too.
+Rating: 5
+Text: Great food. Great service. Great tea. Will be back.
+Rating: 5
+Text: I find some really interesting things here. There is also a cafe with Amish cooking!
+Rating: 5
+Text: A wonderful time. The food was great. We will be back.
+Rating: 4
+Text: Everything was very good, but the ribs were a bit under done.

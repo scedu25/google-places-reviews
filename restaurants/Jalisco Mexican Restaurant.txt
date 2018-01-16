@@ -1,0 +1,13 @@
+Jalisco Mexican Restaurant
+Rating: 4
+Text: This is the only and best Mexican restaurant in town! The staff is always friendly, and if you know Spanish, happy to have a conversation in Spanish. The food is always hot and delicious. The menu is sure to have something for everyone. The building is not much to look at, but that leads to the authentic feel of it all.
+
+UPDATE: note quite what it used to be. The food is not as well seasoned and the portions not quite as large. Still a good place to go for some beans and tacos.
+Rating: 3
+Text: This is the best Mexican restaurant in Fulton. The service is always fast and polite. There is tequila in the drinks, unlike the place next door. If you driving in Fulton, this will be your Mexican food stop.
+Rating: 5
+Text: My bestie and I ate there today and I had the burrito Del Mar.  My food was served hot and fresh and the waiter was super polite and checked on us several times. Great food great service.
+Rating: 5
+Text: I love eating here.  Great food, fun staff.  If the place isn't busy everything is very quick.  If it's busy you can sometimes get overlooked for a few minutes, but your food will always be out shortly after you order.  I can't really complain.
+Rating: 5
+Text: Best Mexican food around! And staff is always great!

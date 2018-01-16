@@ -1,0 +1,11 @@
+Malone's Palomar
+Rating: 1
+Text: I have had repeated negative experiences with this restaurant.  Food is overrated.  Much better restaurants in Lexington.  Frequently get poor service and incorrect orders.
+Rating: 5
+Text: Excellent food and service. Beef dishes are all prepared expertly to order. Price is good for the quality of service provided.
+Rating: 5
+Text: Amazing Steak, excellent Sushi. The staff are tremendous. The Bourbon's are awesome! Ask for Dianne, she is an amazing waitress!!!
+Rating: 5
+Text: One of the best meals ever!!! Awesome is all I can say.  Wait staff very attentive and helpful.  Will come back!
+Rating: 4
+Text: Consistently good steaks.  My only complaint is that the sides vary in consistency and taste.  Sometime the mac and cheese is very good, sometimes unpalatable.

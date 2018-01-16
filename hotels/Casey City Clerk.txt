@@ -1,0 +1,9 @@
+Casey City Clerk
+Rating: 5
+Text: Excellent Small Town 
+Rating: 5
+Text: Great to work with
+Rating: 5
+Text: The city clerk is very friendly
+Rating: 4
+Text: 

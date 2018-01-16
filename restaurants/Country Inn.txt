@@ -1,0 +1,7 @@
+Country Inn
+Rating: 3
+Text: This spot is definitely a locals joint. Come here for a cheap grilled cheese lunch if you are ever on Highway 56. 
+Rating: 3
+Text: Good food
+Rating: 5
+Text: 

@@ -1,0 +1,11 @@
+JJ's Restaurant
+Rating: 5
+Text: It's our favorite place to eat. We tell all our family and friends. Everyone at jjs are super nice. Great family atmosphere.
+Rating: 4
+Text: Nice place to eat early. After 7 lots of kids. Good beer prices when u get the $6 pitcher. Took a long time to get our food. But was very good. Waitress was good.
+Rating: 5
+Text: I went here in one of the party rooms, and the service was excellent. We had a huge group, and our server kept track of everyone. As far as I know, all of the orders were correct for our party. The food was also delicious, and there were a lot of different options off things to eat. The pricing was also very reasonable for the food.
+Rating: 5
+Text: We reserved the party room and Laura was our server. She was absolutely a wonderful server. We had a party of 24 and she kept everything running smooth the whole evening. The room was wonderful to have!!
+Rating: 5
+Text: Good food fun people

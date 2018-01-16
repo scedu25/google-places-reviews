@@ -1,0 +1,11 @@
+Aladdin Cafe
+Rating: 5
+Text: An excellent choice on Mass. They have a buffet that is very good and has a little bit of everything. The menu offers lots of favorites but I especially love their hummus and falafel.
+Rating: 5
+Text: Delicious Mediterranean food. Packed with flavor and not too pricey. There's also a buffet on Sunday for lunch that's really good.
+Rating: 5
+Text: Friendly staff and delicious food. Service was prompt and food was delivered hot. Highly recommend it.
+Rating: 3
+Text: Good portions, tasty food.  Cheesecake was a little skimpy, so look for desert elsewhere.  Like sylas and Maddie's.
+Rating: 5
+Text: This is one of my favorite restaurants in LFK. The food is always fresh and they have the best hummus and pita.

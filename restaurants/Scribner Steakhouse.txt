@@ -1,0 +1,11 @@
+Scribner Steakhouse
+Rating: 5
+Text: Awesome food good time playing shuffleboard 
+Rating: 4
+Text: Really good food. No regrets. 
+Rating: 4
+Text: Good eats good drinks.
+Rating: 4
+Text: Prime rib was wonderful 
+Rating: 3
+Text: 

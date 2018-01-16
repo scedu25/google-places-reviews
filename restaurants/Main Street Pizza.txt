@@ -1,0 +1,12 @@
+Main Street Pizza
+Rating: 4
+Text: Great pizza shop for a small town.  A nice menu including sandwiches and pasta.  They have nice specialty pizzas, my favorite is the bacon cheese burger!
+Rating: 5
+Text: I just had the special of the week! Manicotti with a side salad!! It was incredible!
+
+Rating: 5
+Text: Super Service and Great Pizza!
+Rating: 4
+Text: Good pizza, but it is a little pricey.
+Rating: 5
+Text: Great pizza

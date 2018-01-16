@@ -1,0 +1,9 @@
+Rock Creek Hotel
+Rating: 5
+Text: My crew stays here on a regular basis,  nice rooms, good people.
+Rating: 5
+Text: I have worked on the Hotel and have to say the rooms are vary nice.
+Rating: 5
+Text: Clean, nice, remodeled 
+Rating: 3
+Text: Walked by, looks nice

@@ -1,0 +1,11 @@
+Nicholasville Cafe
+Rating: 5
+Text: The food is great and the prices are even better.
+Rating: 5
+Text: Very friendly owners. Good food & nightly specials
+Rating: 5
+Text: The best burger in town yummy
+Rating: 5
+Text: I love this place. Great home cooking and service at a great price. I used to eat there a couple times a week for lunch when I worked in Nicholasville. 
+Rating: 5
+Text: 

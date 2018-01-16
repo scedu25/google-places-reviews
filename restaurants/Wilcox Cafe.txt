@@ -1,0 +1,11 @@
+Wilcox Cafe
+Rating: 5
+Text: If you are looking to sit down and eat this place has very good food.
+Rating: 5
+Text: Great food..always something different available
+Rating: 5
+Text: Great place to eat.
+Rating: 5
+Text: Good food
+Rating: 4
+Text: 

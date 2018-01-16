@@ -1,0 +1,11 @@
+Gold Mine Restaurant
+Rating: 5
+Text: Very quaint small town restaurant. Service was excellent. Friendly & courteous. Best cup of coffee anywhere. Desserts to die for.
+Rating: 5
+Text: Amazing food and staff very cheap 
+Rating: 4
+Text: We always have great food there, always makes you full with some to come with you.
+Rating: 5
+Text: Great food and the prices cant be beat
+Rating: 5
+Text: Exalant food,very friendly,good service.

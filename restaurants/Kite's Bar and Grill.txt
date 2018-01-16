@@ -1,0 +1,11 @@
+Kite's Bar and Grill
+Rating: 4
+Text: Kite's Bar and Grill is a casual pub for the college crowd.  The food is pretty good, and the beer is beer.  I'd come here again.
+Rating: 5
+Text: Great food and the atmosphere is spot on if you're a K-Stater!
+Rating: 3
+Text: It's a decent sports bar with decent bar food. Nothing that stands out as more than average. Except for the color of the Horny Toad Margarita that didn't make me any hornier than normal.
+Rating: 1
+Text: Decent tasting food and good service but got horrible food poisoning. Almost had to visit the hospital
+Rating: 4
+Text: Good food, slow service. Loud crowd.  Wait staff does not check in on your table enough

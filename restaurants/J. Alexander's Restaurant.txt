@@ -1,0 +1,11 @@
+J. Alexander's Restaurant
+Rating: 5
+Text: Great Service. My waiter was a delight, very welcoming and attentive. The food was delectable. Some of the best quality ingredients, from the salad to the perfectly cooked prime rib. First time I've ever given a five-star. I got to say I'm a critic but I was very impressed.
+Rating: 4
+Text: This is our special restaurant. The food is good and we usually end up taking some of it home. I highly recommend the deviled eggs.
+Rating: 5
+Text: One of Toledo’s best restaurants.  Great atmosphere, excellent service, and absolutely delicious food. For the area it’s on the higher end of the price scale, but not over priced at all.
+Rating: 2
+Text: Only two portion meals, the potatoes were bland and boring, and the steak wasn't the best. We had a dirty glass. The greeters made us feel confused making us go back and fourth. The salad was good.
+Rating: 5
+Text: Great food. Pricy but the food is so worth it. Waitstaff is great but if your not one for crowds get there before 5.

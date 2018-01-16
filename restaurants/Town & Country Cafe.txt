@@ -1,0 +1,11 @@
+Town & Country Cafe
+Rating: 3
+Text: Delicious biscuits. Simple, courteous service; your coffee mug will always be full.  Otherwise, a monument to processed food, vegetable oil, and hidden sugars.  The locals are happy enough with the fattening menu, but if you are a visitor, you can wait for better.
+Rating: 5
+Text: Friendly staff good food and pleasant atmosphere.
+Rating: 2
+Text: Mashed potatoes from powder. Gravy from powder. Had the catfish which wasn't bad. I'll never go back.
+Rating: 5
+Text: Great food and an awesome staff.  Very friendly and place feels like the good old days when restaurants were special.
+Rating: 1
+Text: Waited over hour for food. I know noon is busy time but this seems a bit excessive. Food was good though once finally got it.

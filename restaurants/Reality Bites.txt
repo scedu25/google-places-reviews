@@ -1,0 +1,11 @@
+Reality Bites
+Rating: 5
+Text: Great environment, food with a friendly staff! Highly recommended!
+Rating: 4
+Text: Dinner for two.  Good food, good service, good company.  And yes, the wine was a great pairing.
+Rating: 4
+Text: Good food but a little pricey for a quick lunch.
+Rating: 4
+Text: Awesome menu.  Great fish tacos
+Rating: 5
+Text: I have been here three times, and the food and service is always excellent!

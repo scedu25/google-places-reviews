@@ -1,0 +1,11 @@
+Rack Billiard Cafe
+Rating: 5
+Text: Have been coming here a very long fime .great food.country style pool tables
+Rating: 5
+Text: Good food. Fun place to hang out with friends and family.
+Rating: 4
+Text: Love this place! Sports bar atmosphere with 9 pool tables. Great burgers and steaks
+Rating: 3
+Text: Ok, but not great. Bit expensive for comfort food.
+Rating: 4
+Text: Some good good food. A friend took me as he figured I might miss this one. He would of been correct I would of missed it. 

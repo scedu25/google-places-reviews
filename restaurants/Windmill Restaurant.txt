@@ -1,0 +1,13 @@
+Windmill Restaurant
+Rating: 5
+Text: Yummy! Always great.  Owner/cook is super sweet.  Not the fastest place but worth the wait.
+Rating: 4
+Text: Flavor was good. Sorry for the  rude comment
+
+Rating: 5
+Text:  food is great at this location. The meal was well cooked and had great flavor. I would highly recommend this restaurant.
+
+Rating: 3
+Text: For a small town cafe, it's OK. It can get pretty busy during lunch due to construction in the local area. Nothing to write home about but it will fill your stomach 
+Rating: 5
+Text: Service was great, very clean atmosphere, and the hamburgers are damn good. Prices are good as well. Management even checks up on u the guest to make sure u are satisfied

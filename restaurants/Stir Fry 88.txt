@@ -1,0 +1,11 @@
+Stir Fry 88
+Rating: 5
+Text: Delicious food made fresh to order and friendly owners. Best Chinese in town!
+Rating: 5
+Text: Some of the best Chinese food in town. The food is always hot and the owners are incredible.
+Rating: 5
+Text: Fresh fried egg rolls and crabrango
+Rating: 5
+Text: THIS RESTAURANT IS BY FAR THE BEST PLACE I'VE EVER ATE. I HIGHLY RECOMMEND IT.
+Rating: 5
+Text: Best Chinese in JC by far!

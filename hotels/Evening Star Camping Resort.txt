@@ -1,0 +1,11 @@
+Evening Star Camping Resort
+Rating: 5
+Text: It is a great place to stay. Lovely grounds! Very fun!;
+Rating: 2
+Text: This place is very run down and the "fishing" pond is very nasty. The cabins are nice however. Needs updated badly.
+Rating: 5
+Text: Very family friendly. Provide lots of activities for kids--hay ride, fire engine ride, pavilions for activities, miniture golf, swimming pool, etc
+Rating: 4
+Text: Everyone here is super friendly! Plus, they have a pool! I will definitely be staying here again.
+Rating: 1
+Text: Very nice place to bring the family. There is a swimming pool and miniature golf course, and a play ground for the kids and much much more!!!

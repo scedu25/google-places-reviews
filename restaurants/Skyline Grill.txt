@@ -1,0 +1,11 @@
+Skyline Grill
+Rating: 4
+Text: Nice place, good food, friendly service.  But it is very loud.
+Rating: 5
+Text: Great food and excellent service very clean environment 
+Rating: 4
+Text: Very delicious.  Took a little longer to get our meal than usual
+Rating: 5
+Text: Great atmosphere and food!
+Rating: 5
+Text: Excellent steaks, friendly and good service

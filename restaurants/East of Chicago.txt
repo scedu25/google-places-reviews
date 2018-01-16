@@ -1,0 +1,11 @@
+East of Chicago
+Rating: 5
+Text: Their pizza is very delicious, and the staff are friendly. Best restaurant in Ada. 
+Rating: 5
+Text: Buffet- several options that were hot and fresh  with great table service when needed.
+Rating: 4
+Text: Pizza buffet, friendly, good food fair prices
+Rating: 5
+Text: Love this pizza!  Sauce and crust are both delicious.  They offer a buffet (though I have not tried it yet) and they are very nice each time I've been in there.  Highly recommend it!
+Rating: 2
+Text: Not sure why but most of the time I eat here I end up getting sick

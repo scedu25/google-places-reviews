@@ -1,0 +1,12 @@
+Ohio Hilltop Inc
+Rating: 3
+Text: A place to live if you're stuck without a home
+Rating: 3
+Text: Okay for a low budget income. Without alot of crimes 
+Rating: 4
+Text: Does the job!
+Rating: 5
+Text: I live at the Hilltop and love the view
+
+Rating: 3
+Text: This is apartments 

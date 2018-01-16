@@ -1,0 +1,11 @@
+My Place
+Rating: 5
+Text: The lady that served us was fantastic. Played with our kids. She also gave us great advice about the area.
+Rating: 5
+Text: Customer service is awesome! Everybody is very friendly and the food is delicious :-)
+Rating: 5
+Text: I loved it since I was little 
+Rating: 4
+Text: Decent burgers 
+Rating: 5
+Text: 

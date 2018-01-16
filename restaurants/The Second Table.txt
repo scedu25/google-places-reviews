@@ -1,0 +1,11 @@
+The Second Table
+Rating: 5
+Text: Great Friday morning breakfast, scrambled eggs, toast and a bottomless coffee cup too. And those wonderful delicious cinnamon rolls.
+Rating: 5
+Text: Amazing food, fantastic service, and some of the best cookies you can find anywhere.
+Rating: 5
+Text: The pizza is delicious and cookies are fantastic.
+Rating: 5
+Text: We LOVE the Brimstone sandwich!!! They are very nice, and the food is amazing! The restaurant is different, but the food makes up for it 100%! Oh, and they have yummy cookies too! Thank you! I know what I'm having for supper today :-) 
+Rating: 5
+Text: Great food, and the staff is great! Love the pizzas!

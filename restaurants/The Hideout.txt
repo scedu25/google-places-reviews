@@ -1,0 +1,12 @@
+The Hideout
+Rating: 5
+Text: Chicken Tacos are amazing!  Go on Taco Tuesday's for even better deals!
+Rating: 4
+Text: Great corn nuggets & onion rings& cold beer.  
+Rating: 4
+Text: Great customer service....love the endearment 
+Rating: 5
+Text: mozzarella sticks and corn nuggets are the best
+Rating: 5
+Text: Awesome service
+

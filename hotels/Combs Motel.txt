@@ -1,0 +1,11 @@
+Combs Motel
+Rating: 4
+Text: This motel is quaint and the owners are very nice. They went out of their way several times to make sure we were happy. The beds have quilts. The rooms are clean. It's not the Ritz, but it is very accommodating for the price. It can get loud because it's by a busy road, but well worth it.
+Rating: 5
+Text: Affordable rates, homelike setting
+Rating: 3
+Text: It's a good place to stay, no smoking there.
+Rating: 2
+Text: Not very nice,  old out of date. Not a good chose 
+Rating: 1
+Text: Lady was rude, hotel seemed run down, bad location.

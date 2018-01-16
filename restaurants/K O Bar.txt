@@ -1,0 +1,11 @@
+K O Bar
+Rating: 5
+Text: Good food, good service, nice atmosphere.
+Rating: 4
+Text: Great burger and they are huge. Love the onion petals
+Rating: 5
+Text: Wow a wee wa the beer is so cold I love Donny and his bar you can have so much fun in here and the shenanigans are great stop by it's a hoot
+Rating: 5
+Text: This is the best place to eat! Great prices and amazing food. It's a great place, kids are welcome, come in for one drink, or stay for a meal. Fantastic service and lovely people. Be sure to give it a try when going through town :)
+Rating: 5
+Text: Great food and drinks! Family owned and operated. Great little town!

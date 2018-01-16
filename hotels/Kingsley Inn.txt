@@ -1,0 +1,11 @@
+Kingsley Inn
+Rating: 5
+Text: This is a refurbished hotel into  beautifully decorated rooms and facilities. The manager,Bonnie,is a wonderful host. She personally prepares breakfast meals each day for the guests. I would highly recommend staying here.
+Rating: 4
+Text: We loved our stay. The room was nice and cool for summer temperatures. It was fun to have it decorated how it was. It was located right off the Mississippi River which was beautiful and interesting. We thought it was cool that we could hear the train (until it was the middle of the night and our baby woke up).
+Rating: 5
+Text: This is an amazing old building! Clean rooms. Fantastic customer service. We stayed for 3 nights, and I would stay here again.
+Rating: 5
+Text: Very romantic place.  Staff very friendly.
+Rating: 5
+Text: Owner and Staff are Wonderful and rooms absolutely Beautiful.

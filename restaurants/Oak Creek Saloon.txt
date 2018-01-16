@@ -1,0 +1,12 @@
+Oak Creek Saloon
+Rating: 5
+Text: What a great place to eat and have a drink. Wonderful staff!!
+Rating: 4
+Text: Great friendly service & great prices!! Prime rib on Saturdays!!
+
+Rating: 5
+Text: Great place to come.
+Rating: 5
+Text: Always Fun
+Rating: 4
+Text: Friendly people, good food. Reasonable prices. What more could you ask for?

@@ -1,0 +1,11 @@
+The J Bar & Grill
+Rating: 5
+Text: Good small town place. Decent food and service. Portions were decent sized. Cold beer.
+Rating: 4
+Text: Good food, decent service, don't go on a busy night, though, because you could end up waiting an hour or more.
+Rating: 2
+Text: Food is not the focus of this establishment. Nor is service. Under staffed and disorganized. Over-cooked food. Unfortunately, not a great experience.
+Rating: 1
+Text: I've never felt so uncomfortable at a restaurant like this one...not going back
+Rating: 5
+Text: Great food, awesome Breckinridge beer. Quick service and very friendly staff. 

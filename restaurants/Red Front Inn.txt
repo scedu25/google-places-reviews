@@ -1,0 +1,11 @@
+Red Front Inn
+Rating: 5
+Text: Small town bar, food was excellent, the service was very good and in a timely manner. I would definitely go back and suggest this place to anyone I would know.
+Rating: 5
+Text: Awesome pizza.  Ready when said.  Good customer service.
+Rating: 4
+Text: Great food and good service. Excellent Pizza and Burritos.
+Rating: 5
+Text: Best pizza and coldest beer around. Friendly staff and pretty good selection on menue.
+Rating: 5
+Text: Excellent place to eat. Nice people. Clean.

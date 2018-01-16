@@ -1,0 +1,11 @@
+El Jimador Mexican Restaurant
+Rating: 4
+Text: It's been one of my favourite restaurants for a long time. The food, staff, and prices are amazing. I know for a fact that I will be back in the future.
+Rating: 5
+Text: It is always a nice place to have a lively little dinner with friends. The food tastes good and is at a fair price. Their flavorful mango margarita was a very good value for under $3, during the margarita special.
+Rating: 5
+Text: Good food and service. Was recommended by my daughter.
+Rating: 3
+Text: Order always correct and food always served hot, can't complain!
+Rating: 3
+Text: The food was pretty good but the price was even better!

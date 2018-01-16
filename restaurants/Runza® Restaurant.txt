@@ -1,0 +1,11 @@
+Runza® Restaurant
+Rating: 1
+Text: Enjoyed the food and staff.  We were impressed how accommodating your staff were. The food was very tasty, we will be back.
+Rating: 5
+Text: Great fast food. Always quick, always clean!
+Rating: 5
+Text: Stop while traveling.  Always clean. Very efficient service.
+Rating: 3
+Text: Runza's souls be less bread, however good food.
+Rating: 4
+Text: Chicken stripes weren't very good, but the run's are excellent.

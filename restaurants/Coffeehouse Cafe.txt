@@ -1,0 +1,11 @@
+Coffeehouse Cafe
+Rating: 5
+Text: Great service and excellent food, hamburgers are well seasoned and cooked properly. Excellent kids menu simple on choices. Highly recommend this place
+Rating: 4
+Text: Good food and atmosphere. At peak hours, there can be a bit of a wait. Call in your order ahead if you are in a hurry!
+Rating: 4
+Text: We are lucky to have a cafe in our small town.
+Rating: 5
+Text: We stopped for burgers and fries when driving through. The burgers were large for the price and delicious.  The generous size serving of fries were crisp and hot. Great, friendly service! 
+Rating: 5
+Text: Good food

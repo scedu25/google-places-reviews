@@ -1,0 +1,11 @@
+Houdini's Pizza
+Rating: 2
+Text: Did not care for the place. Could not keep pizza on the buffet to keep up with demands of the customer. Did not care for the pizza either. Will not be dining there again.
+Rating: 5
+Text: The hottest worker ever! And the food is delicious.
+Rating: 4
+Text: Good pizza, but try the Santa Fe Chicken sandwich
+Rating: 5
+Text: Great local pizza joint! Great buffet!
+Rating: 5
+Text: Greatest pizza I've ever ate.

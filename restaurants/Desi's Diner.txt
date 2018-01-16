@@ -1,0 +1,11 @@
+Desi's Diner
+Rating: 4
+Text: The service is quick and polite. The menu has a nice home style variety of meals. The atmosphere is quiet and pleasant.
+Rating: 4
+Text: Quick good service. Good food low price 
+Rating: 5
+Text: Great home style menu. Very good hamburger.
+Rating: 4
+Text: Breakfast and lunch. Good food and cheap.   freindly folks. 
+Rating: 5
+Text: Very good service, ask for scott.

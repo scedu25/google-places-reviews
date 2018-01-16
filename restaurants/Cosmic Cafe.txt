@@ -1,0 +1,11 @@
+Cosmic Cafe
+Rating: 5
+Text: This was our first visit. Amazing strawberry crepes! Pretty cheap prices and good customer service. Will go there again.
+Rating: 5
+Text: Amazing food! Awesome coffee! Great prices! I highly recommend this place! Friendly and helpful staff!
+Rating: 5
+Text: We had the Zodiac sandwich and Big Bang wrap. Very tasty and staff was very friendly. Good prices on everything.
+Rating: 5
+Text: Great atmosphere. Lovely staff. Not your run of the mill menu. Food is fantastic!
+Rating: 4
+Text: The reasonable gourmet choice for Warsaw. Standard breakfast options and other food choices for breakfast. Also can order cappuccino, espresso and latte.

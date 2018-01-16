@@ -1,0 +1,7 @@
+Waldorf Motel
+Rating: 2
+Text: Small rundown little motel 
+Rating: 3
+Text: 
+Rating: 3
+Text: 

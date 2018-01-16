@@ -1,0 +1,11 @@
+Leisure Lodge
+Rating: 3
+Text: This is a longer term rental hotel.
+Rating: 5
+Text: Safe...nice people ...no nonsense
+Rating: 5
+Text: 
+Rating: 3
+Text: 
+Rating: 5
+Text: 

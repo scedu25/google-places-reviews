@@ -1,0 +1,11 @@
+Kingswood Plaza
+Rating: 3
+Text: It could have been better, but I expect a lot if it's costing me money! 
+Rating: 5
+Text: Very nice place to live
+Rating: 1
+Text: Crapy
+Rating: 1
+Text: No room from communicating with owner of trailer park 
+Rating: 5
+Text: 

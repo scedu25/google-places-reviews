@@ -1,0 +1,11 @@
+Coachlight Restaurant
+Rating: 5
+Text: Love this place. Great and friendly service. Food is home cooked!
+Rating: 5
+Text: Best kept secret in Clay County.   If you like home cooking, this is the best you will find anywhere.
+Rating: 5
+Text: Great food, better service. 
+Rating: 5
+Text: Great service and great food at a excellent price.
+Rating: 4
+Text: A great locally owned and operated restaurant in a nice little town. Make sure to save room for pie!

@@ -1,0 +1,11 @@
+Jendy's Pizzeria
+Rating: 4
+Text: Lunch buffet has nice selection of pizzas and salad bar choices. Burgers are goods. Fries are crisp. A little pricey but the atmosphere, background music and TV channel's make up for that!
+Rating: 5
+Text: Fantastic food at fair prices! Nice family atmosphere.
+Rating: 4
+Text: Had the lunch buffet. Good selection of pizza. Buffet included drink, soup, salad bar and pizza. Good value.
+Rating: 5
+Text: Great hometown Pizza and Ice Cream. Great people, great service, great place. Never had a bad experience. Jeff and Wendy do great things for our community.
+Rating: 5
+Text: Jendys is the best place to eat I love there pizza its the best in Hanover

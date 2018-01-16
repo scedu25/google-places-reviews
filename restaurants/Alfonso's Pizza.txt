@@ -1,0 +1,11 @@
+Alfonso's Pizza
+Rating: 5
+Text: Best pizza within a 100 miles. Great service and atmosphere. Worth the drive. Love their Mango Salad and Monster Pizza
+Rating: 4
+Text: Their pizza is very good. I haven't tried the other items on their menu. Seating can be an issue at times but worth the wait.
+Rating: 5
+Text: A staple of Carrollton for years, pizza tastes exactly the same now as it did in the beginning, and it always tastes amazing
+Rating: 5
+Text: For local good food this is the place to go. Staff is warm and friendly,food is down right amazing for the area. Only negative thing I would ever say about this place is that it's not closer to my house. Try it! You will love it!
+Rating: 5
+Text: My wife and I routinely drive all the way from St. Louis to get the pizza here. The pizza is great, and the family that runs the place is just fantastic.

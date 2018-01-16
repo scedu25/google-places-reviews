@@ -1,0 +1,11 @@
+La Pachanga Authentic Mexican Restaurant
+Rating: 5
+Text: Oh mylanta... It's sooooo good!
+Rating: 4
+Text: Very good food at a good price.  It is located in a Eagles club building.  
+Rating: 5
+Text: The service is wonderful and the food is delicious.
+Rating: 1
+Text: Not bad for reheated frozen meals.
+Rating: 5
+Text: Great food

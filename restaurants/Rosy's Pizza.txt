@@ -1,0 +1,11 @@
+Rosy's Pizza
+Rating: 4
+Text: Pizza was good. Sauce was on the sweet side which we liked. Might not be for everyone. 
+Rating: 5
+Text: Great food and atmosphere! Recommend to anyone! 
+Rating: 5
+Text: One of my favorite things to get there is there stuff pizza
+Rating: 5
+Text: Good service good portions and good food. 
+Rating: 5
+Text: Good food and great people. I especially love their tacos and pasta dishes.

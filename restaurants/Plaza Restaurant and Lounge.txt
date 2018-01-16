@@ -1,0 +1,13 @@
+Plaza Restaurant and Lounge
+Rating: 5
+Text: I've visited last year and the place is very beautiful... Good for people who wants to be relax.
+Rating: 3
+Text: The food was okay, I had a traditional taco. I thought the prices were high, service want great
+Rating: 1
+Text: I've visited the Plaza several times and each time I've enjoyed the food and the atmosphere. It's a shame that the server, whom we always have, is really rude. At times we're ignored, treated as if we have inconvenienced him, or given a little "sass" in his responses. 
+
+With the resurgence of downtown Colimbus, there are many other places to go.
+Rating: 5
+Text: Everything was delicious.. Awesome Pizzas..
+Rating: 5
+Text: Very tasty food and a good place to relax.

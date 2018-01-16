@@ -1,0 +1,11 @@
+Pizzeria
+Rating: 5
+Text: Won't be disappointed.  Probably best pizza and gizzards I've had. 
+Rating: 5
+Text: Best pizza around and Mike is the man!
+Rating: 5
+Text: Great pizza
+Rating: 5
+Text: Best pizza in Leipsic!
+Rating: 4
+Text: Pizza is amazing! Try the fried cauliflower.

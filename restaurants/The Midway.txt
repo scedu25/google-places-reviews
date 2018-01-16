@@ -1,0 +1,12 @@
+The Midway
+Rating: 5
+Text: Fantastic fish on the Friday night AYCE special. Fish, hushpuppies and fries were excellent!
+Rating: 5
+Text: The Wednesday wings special is great. The wings are huge and the sauce if perfect. I'm a fan.
+Rating: 5
+Text: Great food and great drink prices.
+Rating: 4
+Text: Saturday special is spaghetti,salad, and bread sticks. Very good. Pizza is excellent.
+They are closed on Mondays.
+Rating: 4
+Text: Always an experience to enjoy.

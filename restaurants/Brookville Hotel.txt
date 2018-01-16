@@ -1,0 +1,11 @@
+Brookville Hotel
+Rating: 5
+Text: This place is so nice! The inside is beautiful, and the chicken dinners are always very good. It is a great place for special occasions.
+Rating: 5
+Text: Amazing food. Only complaint I have is I wish they'd use real mashed potatoes. Service has always been great.
+Rating: 4
+Text: The best fried chicken in the region. Well worth a stop especially as they are just off the interstate. Don't miss it!
+Rating: 5
+Text: Brookville Hotel is world renowned for their fried chicken. It's a very quant restaurant and meals are served family style. The decor throughout the different dining areas is awesome. I would definitely recommend stopping in if you're going to be in the area. Reservations are encouraged especially on weekends.
+Rating: 5
+Text: This place is wonderful! Service is great and the food not only was delicious  but plentiful. Note that it is rather pricy so take your leftovers with ya! I would  recommend it and cant wait to return.

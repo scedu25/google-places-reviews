@@ -1,0 +1,11 @@
+Brentwood Motel
+Rating: 5
+Text: It's a great place to stay and it has a really homey feel.
+Rating: 1
+Text: Dump.
+Rating: 5
+Text: Very nice good place to stay
+Rating: 4
+Text: Getting rundown.
+Rating: 1
+Text: Old, but clean.

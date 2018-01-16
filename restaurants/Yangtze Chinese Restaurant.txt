@@ -1,0 +1,11 @@
+Yangtze Chinese Restaurant
+Rating: 4
+Text: Food is good. Nice selection on the buffet. The staff is friendly and service is good.
+Rating: 5
+Text: It's my family's favorite Chinese buffet in Salem!  The owners are super friendly.  They've stayed open late twice for us and even made more food!  The food is delicious.
+Rating: 5
+Text: Great food,fantastic cutomer service, and the atmosphere of the place is just fantastic
+Rating: 3
+Text: It's an old place but still has good food
+Rating: 3
+Text: Good food, good variety, good buffet. A few items aren't keep as warm as it should be.

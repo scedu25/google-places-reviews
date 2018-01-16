@@ -1,0 +1,11 @@
+Franklin's Bistro
+Rating: 5
+Text: Excellent service and food, charming decor and family friendly!
+Rating: 4
+Text: Great food and drinks! Not too expensive either!
+Rating: 4
+Text: This is a great place to go eat. Their food is great and the service has been also. They tend to get fairly busy during the weekends around dinner time.
+Rating: 2
+Text: The food and service can either be good or poor and you never really know what you're going to get. 
+Rating: 5
+Text: In town for business this week and had a hard time finding a good meal... until I came to this place! Owners are very friendly, the service was great and the food is amazing. I liked it so much that I'll be back for lunch tomorrow and the next time I'm in the area. 

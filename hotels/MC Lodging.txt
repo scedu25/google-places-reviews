@@ -1,0 +1,5 @@
+MC Lodging
+Rating: 4
+Text: Quiet, friendly, 
+Rating: 1
+Text: Wrong number!!

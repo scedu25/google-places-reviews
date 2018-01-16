@@ -1,0 +1,11 @@
+Diners' Kafe
+Rating: 4
+Text: service is excellent in this family run restaurant.  great burgers and sweet potatoe fries.  variety of fresh made desserts.
+Rating: 4
+Text: Nice little diner, nothing fancy, but decent food and price.
+Rating: 5
+Text: Freshest salad bar in Coffey County and the wait staff are the best!
+Rating: 5
+Text: Great food Great serivce
+Rating: 5
+Text: Excellent service. Super food.

@@ -1,0 +1,11 @@
+Terri Jo's Family Restaurant
+Rating: 5
+Text: Awesome place, I eat there all the time. Great service and always can remember your most common orders.
+Rating: 5
+Text: Took my Mother out for Breakfast for Mother Day and it was very Good. We enjoyed the Friendly staff.
+Rating: 2
+Text: While this place is affordable, the food is just okay, nothing great or that would make you want to go back.
+Rating: 5
+Text: Food is great! Service is awesome. Home cooked food. Delicious burgers!
+Rating: 3
+Text: Its ok. Have gotten bad food from here more than any othrr restaurant.

@@ -1,0 +1,11 @@
+The Banker's Inn
+Rating: 5
+Text: Neat Place! We stayed there a few years back and it was like staying at a house. It was very roomy and very cute.  The fudge was amazing! We also got to try the pie. Yum!  I really love this little town.
+Rating: 5
+Text: Was a very nice place to stay...look forward to staying there again.
+Rating: 5
+Text: Great place to stay, wonderful fudge to eat on first floor, and quiet town.
+Rating: 4
+Text: Very good place to stay
+Rating: 4
+Text: 

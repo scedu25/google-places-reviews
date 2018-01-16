@@ -1,0 +1,11 @@
+Maciano's Pizza
+Rating: 5
+Text: Some of the best pizza & pasta in town.  My wife and I love this place.  Their thin crust is to die for.  Very pleasant dine in atmosphere as well.  I strongly recommend.
+Rating: 1
+Text: Worst pizza ever.... ordered a thin crust, all the toppings were on top of the pizza sauce and a thick layer of cheese on top. Not baked properly, everything was just falling off when you lift the slice. Empty place not even a single customer inside.
+Rating: 5
+Text: Best pizza in town. Courteous staff.  Clean bathrooms
+Rating: 5
+Text: Great little restaurant, very cozy, good food, friendly staff. Does not disappoint for family or date night! 
+Rating: 4
+Text: Fast service and easy online ordering service. Pizza is good with coupon codes available.

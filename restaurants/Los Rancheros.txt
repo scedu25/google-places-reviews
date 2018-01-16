@@ -1,0 +1,11 @@
+Los Rancheros
+Rating: 5
+Text: Crab ravioli is AMAZING.. A must have if you enjoy crab and ravioli. Wait staff is very attentive. Outdoor dining. 
+Rating: 5
+Text: This restaurant has the most authenic Mexican food I have ever tasted. Delicious and great service
+Rating: 5
+Text: This place is amazing. Courteous service, very authentic-looking interior and the food is excellent. I cannot stress how amazing their food is.
+Rating: 5
+Text: Great atmosphere, especially in the outdoor seating area. Large portion sizes for a reasonable price.
+Rating: 4
+Text: Very good food. To much to eat, had to take most of it home.

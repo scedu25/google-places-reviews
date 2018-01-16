@@ -1,0 +1,9 @@
+Country Kitchen
+Rating: 4
+Text: Just your good ol small town place to eat! Nothing fancy but nothing bad! 
+Rating: 5
+Text: Awsome small town restaurant with great food!
+Rating: 1
+Text: L 
+Rating: 5
+Text: 

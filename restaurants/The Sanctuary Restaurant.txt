@@ -1,0 +1,11 @@
+The Sanctuary Restaurant
+Rating: 5
+Text: One of our favorite places to eat.  Great menu, good prices, and wonderful staff.
+Rating: 5
+Text: This a really unique place to eat. The decor is homey and welcoming. The service is great and so is the food. If you haven't been there, you need to try it !
+Rating: 4
+Text: When I think coffee house I think Sanctuary. Very cute very quaint. Great service the people make the place. Telling you the banana cream cake is a must.
+Rating: 5
+Text: This is easily the best restaurant in Shenandoah! The food is wonderful.  I have never had anything I didn't absolutely love. The atmosphere is awesome,  being an old converted church with gorgeous windows.  The service is friendly and warm. Well worth the time to visit this gem in Shenandoah!
+Rating: 5
+Text: A great restaurant, small town service and attitude, with an upscale product and environment.

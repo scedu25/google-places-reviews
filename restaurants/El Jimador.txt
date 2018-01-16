@@ -1,0 +1,11 @@
+El Jimador
+Rating: 3
+Text: Food was bland. Service was alright. Very brightly lit inside.
+Rating: 4
+Text: Good place to eat. Food comes out hot. S Margaritas are strong. 
+Rating: 5
+Text: Great service and the queso is amazing! Would recommend to anyone in the area or are just passing through.
+Rating: 5
+Text: My friends and I always enjoy an evening at El Jimador. Great service and fabulous food! 
+Rating: 4
+Text: Good food... nice people. Really Americanized food...

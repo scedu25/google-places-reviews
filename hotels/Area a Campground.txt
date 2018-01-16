@@ -1,0 +1,7 @@
+Area a Campground
+Rating: 5
+Text: Clean beaches, family fun, and you can get your watercraft in close, to shore 
+Rating: 5
+Text: Good place to stay
+Rating: 4
+Text: 

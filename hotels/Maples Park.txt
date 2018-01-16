@@ -1,0 +1,9 @@
+Maples Park
+Rating: 5
+Text: Feels Like Home
+Rating: 4
+Text: Friendly place 
+Rating: 5
+Text: 
+Rating: 5
+Text: 

@@ -1,0 +1,11 @@
+Jester's Bowling Center
+Rating: 5
+Text: Great place to bowl, eat and just hang out. Pool tables, game room. Did I mention beer?
+Rating: 5
+Text: Great food and a wonderful atmosphere! I'll be checking if they have entertainment in their outside vevue. 
+Rating: 5
+Text: Awesome bowling, really really good food and perfect for the kids
+Rating: 4
+Text: Good service and really good food
+Rating: 5
+Text: Great for the whole family, play area for kids that don't care to bowl ,good staff and friendly 

@@ -1,0 +1,11 @@
+Pasquale's Restaurant
+Rating: 5
+Text: Family friendly restaurant! Great prices! Good for family get togethers (available seating) recommend the calzone.
+Rating: 5
+Text: Just experienced Pasquale's for the first time. The service was quick, and the food was wonderful! Can't wait to come back.
+Rating: 5
+Text: Staff is so sweet. Food is amazing. My favorite place to eat for over 3 years.
+Rating: 5
+Text: My family and I go here all the time! Their food is delicious, fresh tasting, and the staff is delightful! Not to mention you cannot beat the price! It's one of the cheapest places in Maysville (That I know of)! Did I mention the food is tasty?
+Rating: 3
+Text: Waitress was extremely friendly and helpful. Did not order pizza, and maybe that is their specialty because the grilled chicken and lasagna were comparable to what you would get from the frozen foods aisle at a grocery store. Restaurant was clean and with simple decorations.

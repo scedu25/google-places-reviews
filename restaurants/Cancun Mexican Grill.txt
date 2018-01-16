@@ -1,0 +1,12 @@
+Cancun Mexican Grill
+Rating: 5
+Text: This restaurant is under new management.  The prices are reasonable and I was impressed with how tasty the food was!
+Rating: 4
+Text: Rough outside but nice inside
+Rating: 5
+Text: Outstanding food , great service, reasonable prices.
+
+Rating: 1
+Text: Rude service it's very cold and we have been waiting over an hour now ! Wouldn't recommend it!
+Rating: 5
+Text: I love the food here

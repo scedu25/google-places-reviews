@@ -1,0 +1,11 @@
+Hungry Hobo
+Rating: 5
+Text: The food was great, fast service and decent prices.  It's good to find a place that you know is worth the price they charge.  The meal was filling and tasted awesome.
+Rating: 4
+Text: The food is good. It is overpriced for the size of the servings.
+Rating: 4
+Text: Good food not too busy
+Rating: 2
+Text: I've been to Hobo for years, tonight's service and food would make me NOT go back if it were my first visit. Luckily, I know Hobo is better than this.
+Rating: 5
+Text: Great service friendly staff great prices 

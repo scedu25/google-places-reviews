@@ -1,0 +1,11 @@
+Wheat-State Motel
+Rating: 4
+Text: Good room availability, good location, decent service, bad wifi
+Rating: 4
+Text: Clean rooms fair prices friendly staff
+Rating: 3
+Text: Big bathroom little closet smells nice clean room great service
+Rating: 1
+Text: Manager is rude and very unprofessional. She is judgemental and very unpleasant to deal with
+Rating: 5
+Text: The owner and staff are very professional

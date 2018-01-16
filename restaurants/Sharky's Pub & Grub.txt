@@ -1,0 +1,11 @@
+Sharky's Pub & Grub
+Rating: 5
+Text: Great food. Great prices. Friendly staff. Very clean. Excellent service.
+Rating: 5
+Text: Nice... clean bar and grill with reasonable prices. Good environment with friendly folks.
+Rating: 5
+Text: Great food.  Comfortable atmosphere.  Highly recommended.
+Rating: 3
+Text: Cute decor,  but wouldn't return.  Steak was chewy and no flavor.
+Rating: 5
+Text: Great atmosphere. Food is hot and fresh & the drink options are cold and plentiful. Family favorites include ALL the burgers, BBQ nachos, grilled veggies and the sweet potato fries.

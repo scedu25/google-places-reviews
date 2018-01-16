@@ -1,0 +1,7 @@
+Asia Food & Thai Food
+Rating: 5
+Text: Amazing food and fantastic service!
+Rating: 5
+Text: Friendly, clean and delicious!
+Rating: 3
+Text: 

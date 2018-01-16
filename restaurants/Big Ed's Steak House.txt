@@ -1,0 +1,11 @@
+Big Ed's Steak House
+Rating: 5
+Text: If you like steak, this is one of the best places to eat. They fill up fast, usually there is a wait, but well worth your wile
+Rating: 5
+Text: Really awesome place to eat. I would highly recommend it. The all you can eat shrimp is really good
+Rating: 4
+Text: Great place to eat
+Rating: 5
+Text: Always the best 
+Rating: 4
+Text: 

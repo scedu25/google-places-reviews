@@ -1,0 +1,11 @@
+Hansons Bar&Grill
+Rating: 5
+Text: Great food, good atmosphere, wonderful staff, reasonably priced.
+Rating: 5
+Text: Came for the fish fry. You get more for your money to order the walleye, but the cod was just as good as the cod! All for a good price and huge pieces of fish
+Rating: 5
+Text: Monday night $1.00 tacos are good. Service is friendly.
+Rating: 5
+Text: The bar tender (Angelee) was awesome. Very kind and welcoming. The atmosphere was also very welcoming and Amazing cheese curds are available here.
+Rating: 4
+Text: Awesome burgers, friendly staff, and a good Friday night fish fry.  Not the fanciest place in town but it's one if our favorites.  Biker friendly.

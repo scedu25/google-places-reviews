@@ -1,0 +1,11 @@
+Border Town Pub Brewery & Eatery
+Rating: 5
+Text: I highly recommend this to everyone. Really great food. The burgers are huge and taste fabulous, the chicken is the best, fries are perfect, and the employees are amazing. 
+Rating: 4
+Text: Great craft beers, food was good for a bar and service was excellent
+Rating: 5
+Text: Good food, great service, nice environment 
+Rating: 4
+Text: Great fried chicken and good friendly people 
+Rating: 2
+Text: Order was wrong, fries were overcooked.  Better off eating beforehand. 

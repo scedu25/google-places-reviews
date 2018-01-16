@@ -1,0 +1,12 @@
+River Trail Campground
+Rating: 5
+Text: Very well kept. Lots to do.
+Rating: 4
+Text: Very nice and friendly people.
+Rating: 5
+Text: Quiet, clean, well kept. Friendly owner.
+Rating: 5
+Text: Great place for camping. Swimming pool is top notched. Great pond for fishing or swimming. All kinds of things to do on weekends. 
+Rating: 5
+Text: Easy to make reservations.  Very clean well kept lots and restrooms. Very peaceful location.  Inexpensive to stay there
+

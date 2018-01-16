@@ -1,0 +1,9 @@
+Welcome Inn
+Rating: 5
+Text: Hotel converted to apartments.
+Rating: 2
+Text: Room is small and the motel has bugs.
+Rating: 5
+Text: Welcome inn on the westside of town is by far the best place to stay if your looking for monthly, deffinetly go check them out, the workers and other guest there are topnotch!
+Rating: 5
+Text: 

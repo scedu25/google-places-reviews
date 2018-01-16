@@ -1,0 +1,11 @@
+El Portal Mexican Restaurant
+Rating: 4
+Text: Great food, great service! Decent prices! My friends & I really enjoy spending our Wednesday nights here!
+Rating: 3
+Text: Had a bday dinner recently good food good people
+Rating: 5
+Text: Great food, very friendly staff , and love the margaritas!!!
+Rating: 4
+Text: Good food, low price, cold beer
+Rating: 5
+Text: Good food, fast service

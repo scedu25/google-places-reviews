@@ -1,0 +1,11 @@
+Burger-Bar
+Rating: 3
+Text: Friendly service, good food, clean atmosphere, a little overpriced for the small portions though.
+Rating: 5
+Text: AAAAAAH... The burger bar. Absolutley love this place! Been going there for over 40 years. Lived in Kansas city, but we have farms down here. So every time we came to town we would stop there for beef burgers and strawberry malts. EVERY TIME! Been there since 1950something I believe. I used to drive two hours from KC just to get four beef burgers, two plain, two with everything, and a strawberry malt. And I have started that tradition with my kids now. I hope this place is around for their kids to enjoy. Once you eat here, you will always come back. Trust me. 
+Rating: 5
+Text: Our family has been stopping here since the 60s and we're still loving it! The "Dusty road" cyclone is the best!
+Rating: 5
+Text: Great service and atmosphere. The burgers are great, and the ice cream is delicious! My family have been coming here for several years and really enjoy it!
+Rating: 5
+Text: I love beef burgers! Tots and fries are cooked to perfection as well.

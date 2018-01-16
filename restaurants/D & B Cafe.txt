@@ -1,0 +1,11 @@
+D & B Cafe
+Rating: 5
+Text: Food was good had a great visit with some old friends
+Rating: 5
+Text: Good food good prices.if expecting fancy not for you
+Rating: 1
+Text: Ate there 6 years ago.  Gross dirty and old.  Poor service.  Never went back.
+Rating: 2
+Text: No seasoning on food. Horrible place to eat
+Rating: 4
+Text: Clean, with tasty food. I eat there often! 

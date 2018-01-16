@@ -1,0 +1,11 @@
+Garcia's Mexican Restaurant
+Rating: 5
+Text: Great food at a great price and excellent service. Can't get any better than that!!
+Rating: 5
+Text: Awesome service,  very good food, nice atmosphere
+Rating: 5
+Text: A great restaurant, fast service and delicious food. People come in from surrounding counties all the time just to visit Garcia's.
+Rating: 1
+Text: The food and service sucks..... Tried to over charge us and i caught it.... Not very pleased with the experience will never go back there again or recommend this place ever
+Rating: 5
+Text: Anything on the menue is great. You do have to ask for hot sauce ( they don't keep it on the table.)

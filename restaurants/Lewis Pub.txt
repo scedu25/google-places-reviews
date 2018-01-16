@@ -1,0 +1,11 @@
+Lewis Pub
+Rating: 5
+Text: Best place in town for hamburgers, tacos on Friday's. Just plain good food anytime.  Friendly service and great food and drinks.  
+Rating: 5
+Text: Good food and service
+Rating: 5
+Text: Great food!! Nice place
+Rating: 3
+Text: It's the only place in town. The fries are good and the beer is cold.
+Rating: 4
+Text: Pretty good food and not really expensive.

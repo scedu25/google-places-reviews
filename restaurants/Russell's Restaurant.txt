@@ -1,0 +1,11 @@
+Russell's Restaurant
+Rating: 5
+Text: Great food!  You MUST try the fried mushrooms.
+Rating: 1
+Text: Worst place ever the food sucked and the people there were the worst
+Rating: 4
+Text: The special of the day was chicken and dumplings, so much food I couldn't eat it all. Home made and delicious.Decor is small town.The young lady waiting on us was very courteous.
+Rating: 5
+Text: Great burgers, catfish and more.
+Rating: 5
+Text: 

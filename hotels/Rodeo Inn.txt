@@ -1,0 +1,11 @@
+Rodeo Inn
+Rating: 5
+Text: Even though our stay was short, it was enjoyable. The innkeeper was very pleasant and accommodating. For a small Sandhill town, the Rodeo Inn is a jewel. 
+Rating: 5
+Text: Very nice quaint place to stay. They have wonderful accomidations for my dog.
+Rating: 5
+Text: My family spends a weekend here every summer for our family reunion and we have never had any issues with the Rodeo Inn. It is always clean and the owners are great.  The beds are comfortable and it is a nice little place.
+Rating: 4
+Text: The location was east to find. The rooms were clean. The outside of the buildings were well cared for.
+Rating: 5
+Text: Clean and very comfortable.  Very accommodating.

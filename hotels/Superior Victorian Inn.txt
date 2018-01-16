@@ -1,0 +1,11 @@
+Superior Victorian Inn
+Rating: 4
+Text: Good deal! We were on the hotel side (not motel) and I though the rooms were decorated well. I would stay again. No fridge or microwave in the rooms we were in. Nice quiet area.
+Rating: 5
+Text: Quaint hotel in this small Nebraska town. Friendly staff, free WiFi, and good amenities. You won't find a nicer place to stay.
+Rating: 5
+Text: The rooms are decorated in a Victorian theme that is inspiring. They are comfortable and the people are nice. We will be back!
+Rating: 4
+Text: Nice place. A lot of homey touches. Appears to be run by a nice couple. Would happily return.
+Rating: 3
+Text: Quite clean with pleasant and friendly staff. Reasonable rates. Beds are very very firm and showerhead is useless.
